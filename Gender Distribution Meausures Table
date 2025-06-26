@@ -1,0 +1,9 @@
+Male Employees = 
+CALCULATE(
+    COUNTROWS(
+        Gender), Gender[Gender] = "Male")
+---
+Female Employees = 
+CALCULATE(
+    COUNTROWS(
+        Gender), Gender[Gender] = "Female")
