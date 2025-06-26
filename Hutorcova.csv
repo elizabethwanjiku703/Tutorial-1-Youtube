@@ -1,0 +1,1130 @@
+﻿Employee_Number,Stag,Turnover,Gender,Age,Industry,Profession,Traffic,Traffic_Source,Coach,Head_gender,Greywage,Way,Extraversion,Independ,Selfcontrol,Anxiety,Novator
+1,7,Yes,Male,35,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,6,4,6,7,8
+2,23,Yes,Male,33,Banks,HR,empjs,Employer_JobSite,no,Male,white,bus,6,4,6,7,8
+3,16,Yes,Female,35,PowerGeneration,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,6,6,3,5,8
+4,16,Yes,Female,35,PowerGeneration,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,5,8,5,3,7
+5,8,Yes,Male,32,Retail,Commercial,youjs,Person_JobSite,yes,Female,white,bus,3,4,8,7,4
+6,9,Yes,Female,42,Manufacture,HR,empjs,Employer_JobSite,yes,Male,white,bus,6,6,4,6,7
+7,9,Yes,Female,42,Manufacture,HR,empjs,Employer_JobSite,yes,Male,white,bus,6,6,4,6,7
+8,120,Yes,Female,28,Retail,HR,referal,Person_RecReferral,no,Male,white,bus,4,6,8,4,4
+9,9,Yes,Female,29,Banks,HR,empjs,Employer_JobSite,no,Female,white,bus,9,7,3,4,8
+10,4,Yes,Female,30,Consult,Marketing,youjs,Person_JobSite,yes,Male,white,bus,5,6,3,8,8
+11,67,Yes,Female,40,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,9,4,2,7,7
+12,21,Yes,Male,23,Banks,HR,referal,Person_RecReferral,yes,Male,white,bus,3,7,5,5,8
+13,21,Yes,Female,22,Consult,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,foot,5,8,5,3,6
+14,9,Yes,Female,24,State,Other,advert,Person_Advert,yes,Female,white,foot,7,6,4,7,9
+15,34,Yes,Female,25,Other,HR,KA,RecAgency,my head,Female,white,foot,9,1,4,6,7
+16,16,Yes,Female,28,Building,HR,youjs,Person_JobSite,no,Male,white,car,9,6,5,5,5
+17,15,Yes,Female,30,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,5,6,3,5,7
+18,26,Yes,Female,27,IT,Sales,referal,Person_RecReferral,yes,Male,white,bus,5,7,3,6,8
+19,15,Yes,Female,36,Banks,HR,referal,Person_RecReferral,yes,Female,grey,bus,5,7,3,3,8
+20,45,Yes,Female,29,Other,HR,referal,Person_RecReferral,no,Male,white,bus,8,6,6,8,6
+21,45,Yes,Female,29,Other,HR,referal,Person_RecReferral,no,Male,white,bus,4,3,6,9,8
+22,37,Yes,Female,48,State,BusinessDevelopment,empjs,Employer_JobSite,no,Female,white,bus,5,6,5,6,7
+23,22,Yes,Female,29,Banks,Finanсe,KA,RecAgency,no,Female,white,car,8,5,6,7,6
+24,59,Yes,Female,25,Banks,HR,recNErab,Person_ByRecomendation,yes,Female,white,bus,5,5,7,6,5
+25,59,Yes,Female,25,Banks,HR,recNErab,Person_ByRecomendation,yes,Female,white,bus,5,4,9,6,2
+26,12,Yes,Female,36,Banks,Finanсe,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,8,7,3,3,8
+27,24,Yes,Female,36,Retail,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,8,3,6,7,5
+28,12,Yes,Male,29,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,4,2,10,8,4
+29,3,Yes,Female,35, HoReCa,HR,empjs,Employer_JobSite,my head,Female,white,bus,3,8,7,4,8
+30,3,Yes,Female,35, HoReCa,HR,empjs,Employer_JobSite,my head,Female,white,bus,1,8,8,5,6
+31,15,Yes,Female,21,Telecom,Sales,rabrecNErab,Employer_ByRecomendation,yes,Female,white,bus,9,4,5,6,6
+32,17,Yes,Male,35,Other,Sales,youjs,Person_JobSite,no,Male,white,car,5,3,4,9,4
+33,28,Yes,Female,25,Other,Other,referal,Person_RecReferral,my head,Female,white,bus,4,7,6,7,8
+34,61,Yes,Female,30,Retail,HR,youjs,Person_JobSite,no,Male,white,bus,7,6,4,3,7
+35,88,Yes,Female,29,Consult,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,7,6,4,4,9
+36,43,Yes,Female,22,Pharma,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,3,4,9,7,6
+37,23,Yes,Female,34,Retail,HR,KA,RecAgency,no,Male,white,car,5,6,5,5,4
+38,23,Yes,Female,34,Retail,HR,KA,RecAgency,no,Male,white,car,6,6,5,3,3
+39,23,Yes,Female,34,Retail,HR,KA,RecAgency,no,Male,white,car,5,6,5,5,4
+40,23,Yes,Female,34,Retail,HR,KA,RecAgency,no,Male,white,car,6,6,5,3,3
+41,13,Yes,Female,21,Other,HR,empjs,Employer_JobSite,no,Female,white,bus,5,8,5,3,2
+42,8,Yes,Female,22,Other,HR,youjs,Person_JobSite,yes,Female,grey,car,7,5,6,4,4
+43,36,Yes,Female,32,Retail,HR,youjs,Person_JobSite,no,Male,white,car,3,8,7,5,3
+44,19,Yes,Female,36,Pharma,Other,empjs,Employer_JobSite,no,Female,white,car,5,8,6,6,8
+45,4,Yes,Female,30,Banks,HR,youjs,Person_JobSite,no,Male,white,bus,6,3,8,3,4
+46,81,Yes,Female,32,Retail,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,4,6,8,4,6
+47,9,Yes,Female,33,Retail,HR,empjs,Employer_JobSite,no,Male,white,car,7,5,4,7,8
+48,37,Yes,Female,49,State,BusinessDevelopment,empjs,Employer_JobSite,my head,Female,white,bus,5,6,5,6,7
+49,4,Yes,Female,29,Retail,HR,empjs,Employer_JobSite,yes,Male,white,bus,8,6,6,4,5
+50,4,Yes,Female,29,Retail,HR,empjs,Employer_JobSite,yes,Male,white,bus,6,6,6,6,3
+51,4,Yes,Female,29,Retail,HR,empjs,Employer_JobSite,yes,Male,white,bus,7,6,6,4,4
+52,8,Yes,Male,36,Mining,HR,empjs,Employer_JobSite,no,Male,white,foot,5,5,7,6,8
+53,95,Yes,Female,22,State,Teaching,advert,Person_Advert,my head,Male,white,bus,9,5,5,4,7
+54,42,Yes,Female,21,Transport,HR,empjs,Employer_JobSite,yes,Female,white,foot,8,6,3,7,9
+55,15,Yes,Female,25,Retail,HR,empjs,Employer_JobSite,no,Female,white,bus,9,6,3,6,6
+56,51,Yes,Male,38,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,6,3,7,6,4
+57,51,Yes,Male,38,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,7,6,6,6,6
+58,35,Yes,Female,23,Consult,HR,empjs,Employer_JobSite,yes,Female,white,bus,10,5,4,6,8
+59,35,Yes,Female,23,Consult,HR,empjs,Employer_JobSite,yes,Female,white,bus,9,5,4,6,9
+60,36,Yes,Male,38,Banks,BusinessDevelopment,recNErab,Person_ByRecomendation,no,Male,white,car,9,3,6,4,6
+61,16,Yes,Female,24,Retail,HR,youjs,Person_JobSite,no,Female,white,foot,6,8,3,3,7
+62,16,Yes,Female,24,Retail,HR,youjs,Person_JobSite,no,Female,white,foot,6,8,3,3,7
+63,53,Yes,Female,36,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,car,5,4,8,6,6
+64,8,Yes,Female,21,State,Sales,advert,Person_Advert,my head,Male,grey,bus,5,6,7,3,5
+65,82,Yes,Female,29,Telecom,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,foot,4,7,6,6,8
+66,56,Yes,Female,29,Banks,HR,empjs,Employer_JobSite,my head,Female,white,bus,7,6,4,4,4
+67,4,Yes,Female,26,Manufacture,HR,referal,Person_RecReferral,no,Female,white,car,4,5,6,8,3
+68,19,Yes,Male,36,Other,manage,rabrecNErab,Employer_ByRecomendation,my head,Male,white,car,6,4,6,6,5
+69,19,Yes,Male,36,Other,manage,rabrecNErab,Employer_ByRecomendation,my head,Male,white,car,9,3,7,5,4
+70,54,Yes,Female,30,State,Teaching,recNErab,Person_ByRecomendation,no,Male,white,foot,5,9,4,4,6
+71,91,Yes,Female,22,State,HR,referal,Person_RecReferral,my head,Female,white,bus,6,6,3,6,7
+72,41,Yes,Male,29,Banks,Marketing,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,6,5,6,6,5
+73,59,Yes,Female,23,State,Teaching,advert,Person_Advert,no,Female,white,bus,7,6,3,6,5
+74,7,Yes,Male,22,Manufacture,manage,advert,Person_Advert,no,Female,white,foot,8,6,1,9,9
+75,45,Yes,Female,36,Other,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,8,5,5,6,9
+76,7,Yes,Male,27,State,Teaching,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,6,6,6,4,4
+77,16,No,Female,34,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,9,6,4,6,7
+78,16,No,Female,34,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,9,3,4,7,6
+79,16,No,Female,34,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,8,4,4,7,7
+80,59,Yes,Female,25,Banks,HR,recNErab,Person_ByRecomendation,no,Female,white,bus,5,5,7,6,5
+81,59,Yes,Female,25,Banks,HR,recNErab,Person_ByRecomendation,no,Female,white,bus,5,4,9,6,2
+82,17,Yes,Female,24,Consult,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,5,7,5,4,7
+83,39,Yes,Female,27,Retail,Other,referal,Person_RecReferral,yes,Male,white,bus,5,7,3,6,8
+84,8,Yes,Female,34,Banks,BusinessDevelopment,KA,RecAgency,my head,Male,white,car,7,6,7,3,5
+85,8,Yes,Female,34,Banks,BusinessDevelopment,KA,RecAgency,my head,Male,white,car,9,7,6,3,4
+86,97,Yes,Female,24,IT,HR,KA,RecAgency,no,Female,white,bus,6,5,7,4,7
+87,87,Yes,Female,23,State,Teaching,referal,Person_RecReferral,yes,Female,white,bus,4,7,8,2,2
+88,53,Yes,Female,38,Telecom,HR,youjs,Person_JobSite,no,Male,white,car,5,6,7,6,8
+89,18,Yes,Female,25,Banks,HR,empjs,Employer_JobSite,no,Male,white,bus,6,6,6,6,8
+90,18,Yes,Female,25,Banks,HR,empjs,Employer_JobSite,no,Male,white,bus,6,8,4,5,9
+91,25,Yes,Female,28,Manufacture,HR,youjs,Person_JobSite,my head,Male,white,bus,6,5,4,4,7
+92,87,Yes,Female,29,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,car,7,6,2,6,6
+93,13,Yes,Male,26,Other,Commercial,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,6,4,5,6,3
+94,26,Yes,Male,21,Other,Marketing,referal,Person_RecReferral,no,Male,white,bus,5,7,4,6,6
+95,10,Yes,Female,25,Consult,HR,youjs,Person_JobSite,my head,Female,white,bus,5,7,6,3,3
+96,10,Yes,Female,25,Consult,HR,youjs,Person_JobSite,my head,Female,white,bus,5,7,6,3,3
+97,3,Yes,Female,24,Consult,HR,youjs,Person_JobSite,no,Female,white,bus,5,7,6,6,3
+98,15,Yes,Female,31,State,HR,rabrecNErab,Employer_ByRecomendation,no,Male,grey,bus,2,1,8,9,4
+99,80,Yes,Female,45,Retail,HR,empjs,Employer_JobSite,no,Female,white,bus,3,6,10,6,3
+100,17,Yes,Female,21,Other,Other,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,7,7,6,4,5
+101,19,Yes,Female,22,Other,HR,youjs,Person_JobSite,my head,Female,white,bus,5,6,4,9,8
+102,9,Yes,Female,37,Mining,Commercial,KA,RecAgency,yes,Male,white,bus,4,8,5,7,9
+103,18,Yes,Female,32,Other,HR,empjs,Employer_JobSite,my head,Male,white,bus,8,6,3,4,8
+104,53,Yes,Female,37,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,7,5,6,6,8
+105,43,Yes,Female,30,Retail,HR,KA,RecAgency,no,Female,white,bus,6,6,6,6,8
+106,24,Yes,Female,37,Transport,HR,youjs,Person_JobSite,no,Male,white,bus,6,6,6,6,9
+107,41,Yes,Female,22,Pharma,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,4,2,9,6,4
+108,41,Yes,Female,22,Pharma,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,5,3,8,7,5
+109,123,Yes,Female,22,Banks,IT,referal,Person_RecReferral,my head,Male,white,bus,5,5,6,7,6
+110,123,Yes,Female,22,Banks,IT,referal,Person_RecReferral,my head,Male,white,bus,5,6,6,4,7
+111,13,Yes,Male,28,Telecom,IT,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,9,6,1,6,7
+112,13,Yes,Male,28,Telecom,IT,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,7,6,3,6,8
+113,15,Yes,Male,25,Manufacture,HR,empjs,Employer_JobSite,my head,Female,white,car,6,6,6,6,4
+114,24,Yes,Female,23,Building,Marketing,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,4,8,7,3,4
+115,12,Yes,Male,25,Building,HR,youjs,Person_JobSite,yes,Female,white,bus,7,5,5,6,6
+116,11,Yes,Female,26,Banks,HR,youjs,Person_JobSite,no,Female,white,bus,5,6,6,4,6
+117,11,Yes,Female,26,Banks,HR,youjs,Person_JobSite,no,Female,white,bus,5,6,6,6,5
+118,27,Yes,Male,30,Retail,Sales,youjs,Person_JobSite,no,Male,white,car,7,5,2,9,7
+119,16,Yes,Male,38,IT,IT,referal,Person_RecReferral,no,Male,white,car,6,4,2,9,8
+120,5,Yes,Female,37,State,Marketing,recNErab,Person_ByRecomendation,no,Female,white,foot,9,4,5,4,8
+121,20,Yes,Female,26,Agriculture,Law,rabrecNErab,Employer_ByRecomendation,no,Male,grey,bus,5,5,9,6,3
+122,103,Yes,Female,27,Banks,HR,youjs,Person_JobSite,no,Female,white,car,4,5,10,6,4
+123,4,Yes,Female,29,Retail,Other,empjs,Employer_JobSite,no,Male,white,bus,8,6,6,4,5
+124,4,Yes,Female,29,Retail,Other,empjs,Employer_JobSite,no,Male,white,bus,6,6,6,6,3
+125,4,Yes,Female,29,Retail,Other,empjs,Employer_JobSite,no,Male,white,bus,7,6,6,4,4
+126,71,Yes,Female,26,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,4,6,9,3,4
+127,71,Yes,Female,26,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,3,7,6,3,3
+128,52,Yes,Female,49,Manufacture,HR,empjs,Employer_JobSite,my head,Male,white,bus,6,8,3,3,6
+129,39,Yes,Male,21,Banks,HR,recNErab,Person_ByRecomendation,yes,Female,white,foot,8,6,3,6,9
+130,39,Yes,Male,21,Banks,HR,recNErab,Person_ByRecomendation,yes,Female,white,foot,7,3,3,7,8
+131,35,Yes,Male,26,Mining,HR,empjs,Employer_JobSite,yes,Female,white,car,5,3,9,8,8
+132,49,Yes,Female,22,Other,Marketing,rabrecNErab,Employer_ByRecomendation,no,Female,grey,car,5,7,6,4,4
+133,26,Yes,Male,51,Retail,Other,referal,Person_RecReferral,no,Male,white,car,3,6,10,6,5
+134,51,Yes,Female,28,Manufacture,Finanсe,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,8,3,6,4,4
+135,22,Yes,Male,52,Consult,Consult,rabrecNErab,Employer_ByRecomendation,no,Male,white,foot,3,9,5,6,7
+136,11,Yes,Female,43,Pharma,HR,youjs,Person_JobSite,my head,Female,white,car,5,6,3,8,8
+137,51,Yes,Female,44,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Male,grey,car,7,7,5,3,6
+138,17,Yes,Female,45,Manufacture,Engineer,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,4,4,7,6,4
+139,24,Yes,Female,27,Building,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,4,10,4,4,9
+140,24,Yes,Female,26,Retail,HR,youjs,Person_JobSite,my head,Female,white,bus,7,6,4,5,8
+141,20,Yes,Female,25,Manufacture,HR,advert,Person_Advert,yes,Female,white,car,9,3,2,9,8
+142,151,Yes,Female,19,Banks,HR,advert,Person_Advert,yes,Male,white,foot,7,3,6,8,7
+143,11,Yes,Female,31,Other,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,9,3,1,9,10
+144,79,Yes,Female,31,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Female,grey,bus,4,4,7,9,2
+145,79,Yes,Female,31,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Female,grey,bus,4,4,7,9,2
+146,81,Yes,Female,31,RealEstate,HR,referal,Person_RecReferral,my head,Female,white,bus,6,5,9,6,5
+147,13,Yes,Female,30,Other,HR,youjs,Person_JobSite,no,Female,white,bus,6,4,6,6,1
+148,13,Yes,Female,30,Other,HR,youjs,Person_JobSite,no,Female,white,bus,7,7,4,6,4
+149,142,Yes,Female,18,Retail,HR,advert,Person_Advert,no,Female,white,bus,6,6,6,5,5
+150,11,Yes,Male,33,IT,Consult,youjs,Person_JobSite,yes,Male,white,car,3,10,6,6,8
+151,12,Yes,Female,36,Retail,Sales,youjs,Person_JobSite,no,Male,white,bus,5,5,5,5,6
+152,54,Yes,Female,31,Other,HR,empjs,Employer_JobSite,my head,Male,white,car,3,6,7,6,6
+153,6,Yes,Female,45,IT,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,8,5,4,4,6
+154,20,Yes,Female,29,Retail,HR,empjs,Employer_JobSite,my head,Female,white,car,9,7,5,3,6
+155,80,Yes,Male,23,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,5,6,6,9,5
+156,9,Yes,Female,27,Retail,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,car,6,5,6,6,3
+157,19,Yes,Female,22,Retail,Sales,youjs,Person_JobSite,yes,Male,grey,bus,9,4,5,5,5
+158,8,Yes,Male,47,Manufacture,Commercial,empjs,Employer_JobSite,no,Male,grey,bus,4,2,9,9,2
+159,8,Yes,Male,47,Manufacture,Commercial,empjs,Employer_JobSite,no,Male,grey,bus,5,4,6,9,4
+160,8,Yes,Male,47,Manufacture,Commercial,empjs,Employer_JobSite,no,Male,grey,bus,3,6,5,9,4
+161,11,Yes,Female,30,Consult,HR,youjs,Person_JobSite,no,Male,white,bus,8,6,5,7,6
+162,51,Yes,Female,28,Transport,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,car,5,7,5,4,6
+163,128,No,Female,43,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,5,8,5,6,6
+164,28,Yes,Male,26,Consult,Consult,referal,Person_RecReferral,no,Female,white,bus,9,6,4,7,7
+165,5,Yes,Female,31,Retail,Sales,KA,RecAgency,no,Female,grey,bus,5,6,7,5,1
+166,18,Yes,Male,24,Retail,HR,empjs,Employer_JobSite,my head,Female,grey,bus,5,8,6,5,7
+167,23,Yes,Female,27,Building,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,4,10,4,4,9
+168,16,Yes,Male,35,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,6,6,6,4,3
+169,16,Yes,Male,35,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,7,5,3,6,6
+170,71,Yes,Female,31,PowerGeneration,HR,youjs,Person_JobSite,my head,Female,white,car,5,4,6,5,4
+171,10,Yes,Male,23,IT,HR,empjs,Employer_JobSite,no,Female,white,bus,7,4,6,5,5
+172,17,Yes,Female,40,Banks,Sales,advert,Person_Advert,my head,Female,white,car,5,4,5,6,8
+173,131,Yes,Female,31,IT,HR,KA,RecAgency,no,Male,white,bus,5,7,3,4,8
+174,37,Yes,Female,37,Other,HR,youjs,Person_JobSite,yes,Female,white,bus,6,6,6,6,5
+175,0,Yes,Female,24,IT,HR,youjs,Person_JobSite,yes,Female,white,bus,9,4,5,3,6
+176,13,Yes,Female,23,Building,HR,empjs,Employer_JobSite,no,Female,grey,bus,5,8,4,5,6
+177,13,Yes,Female,23,Building,HR,empjs,Employer_JobSite,no,Female,grey,bus,8,6,4,5,5
+178,8,Yes,Female,46,RealEstate,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,5,8,6,4,6
+179,7,Yes,Female,23,Consult,Marketing,youjs,Person_JobSite,yes,Female,white,bus,6,5,6,3,4
+180,18,Yes,Female,40,IT,HR,empjs,Employer_JobSite,yes,Male,white,bus,3,8,7,5,8
+181,15,Yes,Male,39,Manufacture,Engineer,recNErab,Person_ByRecomendation,no,Male,white,car,4,5,6,8,4
+182,16,Yes,Female,28,Retail,HR,youjs,Person_JobSite,no,Female,white,car,3,6,6,6,4
+183,32,Yes,Male,40,Other,HR,empjs,Employer_JobSite,yes,Male,white,car,5,3,6,8,10
+184,73,Yes,Male,33,Retail,Finanсe,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,2,6,6,6,5
+185,73,Yes,Male,33,Retail,Finanсe,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,4,4,8,6,4
+186,12,Yes,Female,24,Banks,HR,referal,Person_RecReferral,no,Female,white,foot,8,6,5,2,4
+187,46,Yes,Female,38,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,6,4,5,6,7
+188,53,Yes,Male,35,Manufacture,BusinessDevelopment,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,5,5,4,8,8
+189,15,Yes,Female,33,Manufacture,HR,referal,Person_RecReferral,my head,Male,white,car,5,5,7,8,6
+190,26,Yes,Female,36,Other,HR,empjs,Employer_JobSite,no,Male,white,foot,3,7,6,5,6
+191,26,Yes,Female,36,Other,HR,empjs,Employer_JobSite,no,Male,white,foot,2,7,8,6,4
+192,26,Yes,Female,36,Other,HR,empjs,Employer_JobSite,no,Male,white,foot,3,7,7,5,5
+193,29,Yes,Female,22,Other,HR,youjs,Person_JobSite,yes,Female,white,bus,9,4,4,5,9
+194,33,Yes,Female,38,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,8,3,6,7,5
+195,6,Yes,Female,23,Banks,HR,rabrecNErab,Employer_ByRecomendation,yes,Female,white,bus,5,7,7,6,4
+196,6,Yes,Female,23,Banks,HR,rabrecNErab,Employer_ByRecomendation,yes,Female,white,bus,6,5,5,5,4
+197,78,Yes,Female,24,Other,Sales,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,6,6,6,3,2
+198,166,Yes,Male,26,Retail,Sales,recNErab,Person_ByRecomendation,no,Male,white,car,3,6,6,7,7
+199,107,Yes,Female,33,Other,Other,advert,Person_Advert,no,Male,white,bus,5,1,10,9,5
+200,19,Yes,Female,40,Banks,HR,empjs,Employer_JobSite,yes,Female,grey,bus,6,3,8,3,4
+201,9,Yes,Female,23,Manufacture,manage,KA,RecAgency,no,Female,white,car,4,4,9,4,3
+202,14,Yes,Female,27,Retail,HR,youjs,Person_JobSite,no,Male,white,car,9,5,7,4,4
+203,6,Yes,Female,24,PowerGeneration,Sales,empjs,Employer_JobSite,my head,Female,white,bus,5,6,4,6,10
+204,23,Yes,Female,30,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,5,8,3,6,6
+205,16,Yes,Female,37,Pharma,Other,empjs,Employer_JobSite,no,Female,white,car,5,8,6,6,8
+206,26,Yes,Female,31,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Male,grey,bus,3,8,5,6,5
+207,35,Yes,Female,31,Retail,HR,KA,RecAgency,no,Male,white,bus,4,10,3,3,7
+208,26,Yes,Female,23,IT,HR,youjs,Person_JobSite,my head,Female,white,bus,1,3,10,9,2
+209,4,Yes,Female,40,Banks,HR,empjs,Employer_JobSite,no,Female,white,bus,8,6,3,6,8
+210,4,Yes,Female,40,Banks,HR,empjs,Employer_JobSite,no,Female,white,bus,9,6,3,6,8
+211,4,Yes,Female,40,Banks,HR,empjs,Employer_JobSite,no,Female,white,bus,7,7,4,6,8
+212,2,Yes,Female,37,Other,Marketing,youjs,Person_JobSite,no,Female,white,bus,5,3,9,4,3
+213,25,Yes,Female,30,Retail,Sales,youjs,Person_JobSite,no,Female,white,bus,5,3,7,6,5
+214,14,Yes,Female,38,State,Teaching,referal,Person_RecReferral,no,Female,white,foot,3,9,4,5,6
+215,63,Yes,Male,32,Mining,Law,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,3,5,4,7,8
+216,11,Yes,Female,34,Building,Marketing,referal,Person_RecReferral,no,Male,grey,car,9,3,5,3,6
+217,12,Yes,Female,25,Manufacture,HR,youjs,Person_JobSite,my head,Female,grey,car,3,5,7,8,5
+218,12,Yes,Female,25,Manufacture,HR,youjs,Person_JobSite,my head,Female,grey,car,3,6,6,7,5
+219,30,No,Male,33,Retail,HR,empjs,Employer_JobSite,my head,Female,white,car,5,6,8,7,5
+220,30,No,Male,33,Retail,HR,empjs,Employer_JobSite,my head,Female,white,car,5,8,6,7,6
+221,38,No,Male,33,Retail,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,car,3,4,8,7,4
+222,22,Yes,Male,37,Manufacture,manage,rabrecNErab,Employer_ByRecomendation,no,Male,grey,bus,4,5,5,7,7
+223,39,Yes,Female,31,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,6,5,4,5,5
+224,139,No,Female,30,RealEstate,BusinessDevelopment,referal,Person_RecReferral,my head,Male,white,foot,5,7,3,6,8
+225,24,Yes,Male,26,Manufacture,Engineer,referal,Person_RecReferral,my head,Male,white,bus,5,6,9,6,1
+226,21,Yes,Male,33,Banks,Other,youjs,Person_JobSite,no,Male,white,car,6,4,3,9,10
+227,94,No,Female,25,Retail,HR,youjs,Person_JobSite,no,Male,grey,car,6,3,6,6,8
+228,2,No,Female,32,Other,Marketing,rabrecNErab,Employer_ByRecomendation,my head,Male,white,foot,5,6,3,8,8
+229,97,No,Female,36,Retail,HR,KA,RecAgency,no,Male,white,car,6,6,6,4,5
+230,34,No,Female,38,Building,HR,referal,Person_RecReferral,no,Male,white,car,1,5,6,6,7
+231,47,Yes,Female,23,Retail,Marketing,advert,Person_Advert,my head,Female,white,car,3,6,9,5,6
+232,80,Yes,Female,26,State,manage,referal,Person_RecReferral,no,Female,white,foot,5,6,8,5,5
+233,12,Yes,Female,24,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,foot,8,6,5,2,4
+234,80,Yes,Female,25,Retail,HR,empjs,Employer_JobSite,no,Male,white,bus,8,7,3,3,5
+235,2,Yes,Female,33,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,5,6,7,3,5
+236,17,No,Female,32,Pharma,Sales,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,5,8,9,3,3
+237,6,No,Female,44,Banks,HR,KA,RecAgency,no,Female,white,car,5,5,9,5,6
+238,2,Yes,Female,24,Consult,Consult,youjs,Person_JobSite,no,Female,grey,bus,6,5,8,4,3
+239,24,Yes,Female,23,Manufacture,HR,youjs,Person_JobSite,my head,Female,white,bus,6,3,6,5,4
+240,38,No,Female,25,Manufacture,HR,youjs,Person_JobSite,no,Female,white,bus,6,3,6,5,4
+241,6,Yes,Female,34,Other,HR,empjs,Employer_JobSite,no,Male,white,car,9,6,1,6,10
+242,12,Yes,Male,30,Retail,Sales,rabrecNErab,Employer_ByRecomendation,no,Male,grey,car,5,4,5,6,6
+243,8,Yes,Female,29,State,Teaching,advert,Person_Advert,no,Female,white,foot,9,6,3,3,5
+244,15,Yes,Female,30,Mining,HR,youjs,Person_JobSite,my head,Female,white,car,5,7,7,3,7
+245,94,No,Female,29,IT,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,5,8,7,3,4
+246,28,No,Female,26, HoReCa,HR,youjs,Person_JobSite,my head,Female,white,car,3,7,7,5,5
+247,49,Yes,Female,28,Retail,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,8,7,4,3,8
+248,87,Yes,Female,33, HoReCa,HR,youjs,Person_JobSite,my head,Male,white,bus,4,8,8,4,4
+249,87,Yes,Female,33, HoReCa,HR,youjs,Person_JobSite,my head,Male,white,bus,5,9,5,3,3
+250,53,Yes,Female,27,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,foot,7,6,5,6,8
+251,139,Yes,Female,32,State,Teaching,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,8,5,4,3,8
+252,28,Yes,Female,31,Banks,HR,empjs,Employer_JobSite,no,Female,grey,bus,7,6,1,9,8
+253,23,No,Female,23,Retail,HR,youjs,Person_JobSite,yes,Female,white,bus,6,5,7,4,7
+254,15,Yes,Male,22,PowerGeneration,Other,recNErab,Person_ByRecomendation,no,Male,white,bus,6,3,7,6,7
+255,160,Yes,Female,24,Telecom,HR,referal,Person_RecReferral,no,Male,white,bus,1,7,10,5,8
+256,20,Yes,Female,23,Retail,Sales,empjs,Employer_JobSite,my head,Female,white,bus,7,5,4,6,7
+257,17,No,Female,32,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,3,4,7,7,8
+258,16,No,Male,42,Manufacture,BusinessDevelopment,youjs,Person_JobSite,no,Male,white,car,1,4,10,7,5
+259,70,Yes,Male,22,PowerGeneration,Marketing,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,5,4,9,4,2
+260,3,Yes,Male,39,Banks,BusinessDevelopment,youjs,Person_JobSite,no,Female,white,bus,8,5,2,9,8
+261,13,Yes,Male,34,Other,HR,empjs,Employer_JobSite,no,Male,grey,bus,4,3,8,9,6
+262,89,No,Female,30,State,HR,youjs,Person_JobSite,no,Male,white,bus,5,3,7,7,7
+263,123,Yes,Female,28,Retail,Marketing,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,3,8,3,8,8
+264,60,No,Female,31,Retail,BusinessDevelopment,referal,Person_RecReferral,no,Male,white,car,5,5,8,5,7
+265,60,No,Female,31,Retail,BusinessDevelopment,referal,Person_RecReferral,no,Male,white,car,6,7,7,5,5
+266,27,Yes,Female,32,Other,HR,youjs,Person_JobSite,yes,Female,white,bus,3,8,7,6,8
+267,18,No,Female,40,Manufacture,HR,youjs,Person_JobSite,no,Male,white,bus,3,7,5,6,6
+268,17,Yes,Female,22,IT,manage,youjs,Person_JobSite,yes,Female,white,bus,9,6,3,6,10
+269,3,Yes,Female,41,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,4,8,3,5,8
+270,24,Yes,Female,24,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,grey,bus,3,5,7,8,5
+271,24,Yes,Female,24,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,grey,bus,3,6,6,7,5
+272,16,Yes,Female,26,Other,Engineer,empjs,Employer_JobSite,no,Male,white,bus,6,6,3,6,8
+273,46,Yes,Female,36,RealEstate,manage,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,5,6,7,5,4
+274,12,Yes,Male,30,Retail,Sales,rabrecNErab,Employer_ByRecomendation,no,Male,grey,car,5,4,5,6,6
+275,74,Yes,Female,30,Retail,HR,youjs,Person_JobSite,yes,Female,white,bus,5,5,6,9,6
+276,3,No,Female,31,IT,HR,youjs,Person_JobSite,no,Male,white,bus,7,3,8,8,6
+277,27,Yes,Female,24,Pharma,HR,empjs,Employer_JobSite,no,Female,white,bus,5,5,5,5,5
+278,2,Yes,Female,28,IT,HR,youjs,Person_JobSite,no,Female,white,bus,6,3,5,8,8
+279,68,Yes,Female,24,Other,PR,referal,Person_RecReferral,no,Female,white,foot,7,4,3,8,8
+280,68,Yes,Female,24,Other,PR,referal,Person_RecReferral,no,Female,white,foot,8,6,3,6,7
+281,2,Yes,Female,44,Other,HR,youjs,Person_JobSite,no,Male,white,bus,5,8,6,3,6
+282,76,No,Female,24,Retail,HR,rabrecNErab,Employer_ByRecomendation,yes,Male,white,car,7,6,2,6,8
+283,12,Yes,Male,39,Retail,manage,empjs,Employer_JobSite,no,Male,white,car,6,3,6,6,8
+284,58,No,Female,35,Telecom,BusinessDevelopment,referal,Person_RecReferral,my head,Female,white,bus,9,6,3,5,7
+285,32,Yes,Female,40,Retail,HR,KA,RecAgency,no,Male,white,car,6,6,6,5,8
+286,6,Yes,Female,30,Retail,Marketing,youjs,Person_JobSite,yes,Female,white,bus,8,6,5,4,8
+287,5,Yes,Female,26,Banks,HR,youjs,Person_JobSite,no,Female,grey,bus,5,6,6,4,6
+288,5,Yes,Female,26,Banks,HR,youjs,Person_JobSite,no,Female,grey,bus,5,6,6,6,5
+289,23,No,Female,31,Other,HR,empjs,Employer_JobSite,no,Female,white,bus,5,6,5,6,7
+290,27,No,Female,26,IT,HR,empjs,Employer_JobSite,yes,Female,white,bus,9,6,3,4,6
+291,27,No,Female,26,IT,HR,empjs,Employer_JobSite,yes,Female,white,bus,6,8,4,3,7
+292,150,Yes,Female,33,Pharma,HR,empjs,Employer_JobSite,no,Female,white,car,5,3,6,7,5
+293,53,No,Female,23,Consult,HR,empjs,Employer_JobSite,yes,Female,white,foot,9,6,3,5,8
+294,6,No,Female,32,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,4,6,8,4,7
+295,54,Yes,Male,28,Other,IT,youjs,Person_JobSite,no,Male,white,bus,8,7,3,6,8
+296,74,No,Female,26,Retail,Other,youjs,Person_JobSite,no,Male,white,car,10,6,3,6,7
+297,27,Yes,Female,27,Other,HR,KA,RecAgency,no,Female,white,bus,4,2,10,7,2
+298,44,No,Male,22,IT,IT,rabrecNErab,Employer_ByRecomendation,my head,Male,white,foot,5,3,6,9,6
+299,54,Yes,Male,37,IT,IT,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,10,3,3,6,10
+300,9,Yes,Male,38,Agriculture,HR,empjs,Employer_JobSite,no,Female,white,bus,5,4,4,9,8
+301,64,Yes,Male,44,Retail,Sales,youjs,Person_JobSite,no,Male,grey,bus,2,6,9,7,7
+302,27,No,Female,27,Other,Other,empjs,Employer_JobSite,no,Male,white,bus,7,7,6,3,7
+303,24,Yes,Female,23,Agriculture,Consult,referal,Person_RecReferral,yes,Male,white,bus,5,7,7,3,2
+304,24,Yes,Female,23,Agriculture,Consult,referal,Person_RecReferral,yes,Male,white,bus,5,7,7,3,3
+305,24,Yes,Female,23,Agriculture,Consult,referal,Person_RecReferral,my head,Male,white,bus,5,7,7,3,2
+306,24,Yes,Female,23,Agriculture,Consult,referal,Person_RecReferral,my head,Male,white,bus,5,7,7,3,3
+307,38,Yes,Female,34,Building,HR,youjs,Person_JobSite,my head,Female,white,bus,5,3,6,8,8
+308,18,No,Male,23,Telecom,Engineer,empjs,Employer_JobSite,no,Male,grey,bus,4,9,9,5,5
+309,95,No,Female,25,Retail,HR,youjs,Person_JobSite,no,Male,grey,bus,6,3,6,6,8
+310,28,No,Female,26,Retail,HR,recNErab,Person_ByRecomendation,no,Female,white,bus,5,6,6,6,4
+311,28,No,Female,26,Retail,HR,recNErab,Person_ByRecomendation,no,Female,white,bus,4,4,9,8,5
+312,72,No,Female,30,Retail,Other,youjs,Person_JobSite,no,Female,grey,bus,6,3,6,6,6
+313,3,Yes,Male,45,Telecom,BusinessDevelopment,friends,Employer_Friends,my head,Male,white,bus,3,8,7,7,6
+314,12,No,Female,31,Transport,Consult,friends,Employer_Friends,no,Male,white,bus,5,6,6,4,4
+315,12,No,Female,31,Transport,Consult,friends,Employer_Friends,no,Male,white,bus,4,3,8,6,6
+316,24,Yes,Female,36,Manufacture,Other,empjs,Employer_JobSite,my head,Female,white,foot,5,4,5,6,4
+317,24,Yes,Female,36,Manufacture,Other,empjs,Employer_JobSite,my head,Female,white,foot,6,5,6,4,3
+318,40,No,Female,29,PowerGeneration,Commercial,youjs,Person_JobSite,no,Male,grey,car,5,6,4,6,8
+319,54,Yes,Female,30,Telecom,HR,youjs,Person_JobSite,yes,Female,white,foot,5,4,5,9,8
+320,21,Yes,Female,23,Manufacture,Engineer,youjs,Person_JobSite,yes,Male,white,bus,3,7,6,8,5
+321,21,Yes,Female,23,Manufacture,Engineer,youjs,Person_JobSite,yes,Male,white,bus,5,7,7,5,5
+322,12,Yes,Female,27,Retail,HR,rabrecNErab,Employer_ByRecomendation,yes,Female,white,bus,6,7,3,5,7
+323,45,Yes,Male,29,Consult,HR,empjs,Employer_JobSite,no,Male,white,car,3,5,5,6,8
+324,14,Yes,Female,28,State,manage,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,7,7,6,3,5
+325,59,No,Male,46,Consult,HR,advert,Person_Advert,no,Female,white,bus,3,6,8,6,4
+326,62,Yes,Male,23,State,Law,referal,Person_RecReferral,my head,Male,white,car,5,7,7,3,2
+327,62,Yes,Male,23,State,Law,referal,Person_RecReferral,my head,Male,white,car,5,7,7,3,3
+328,141,No,Female,26,Building,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,foot,4,2,9,6,4
+329,141,No,Female,26,Building,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,foot,5,3,8,7,5
+330,6,Yes,Female,38,Transport,HR,youjs,Person_JobSite,no,Male,grey,bus,6,6,8,3,4
+331,6,Yes,Female,38,Transport,HR,youjs,Person_JobSite,no,Male,grey,bus,5,6,8,4,4
+332,95,Yes,Male,26,Retail,IT,friends,Employer_Friends,no,Male,white,bus,4,8,7,8,4
+333,70,No,Female,31,Retail,HR,youjs,Person_JobSite,my head,Female,white,bus,5,6,7,3,3
+334,70,No,Female,31,Retail,HR,youjs,Person_JobSite,my head,Female,white,bus,5,6,7,5,4
+335,57,Yes,Female,36,Building,HR,KA,RecAgency,no,Female,white,bus,4,6,6,6,6
+336,46,No,Female,33,PowerGeneration,HR,empjs,Employer_JobSite,my head,Female,white,car,8,6,6,8,6
+337,46,No,Female,33,PowerGeneration,HR,empjs,Employer_JobSite,my head,Female,white,car,4,3,6,9,8
+338,29,Yes,Female,28,Building,BusinessDevelopment,referal,Person_RecReferral,no,Male,white,foot,9,3,5,3,6
+339,12,Yes,Female,27,Retail,HR,referal,Person_RecReferral,yes,Female,white,bus,6,7,3,5,7
+340,27,No,Female,26,Banks,IT,youjs,Person_JobSite,my head,Male,grey,car,6,6,5,6,7
+341,106,No,Female,28,Retail,HR,youjs,Person_JobSite,no,Male,white,bus,5,3,7,6,4
+342,3,Yes,Female,40,Retail,HR,youjs,Person_JobSite,no,Male,grey,car,6,6,5,5,8
+343,5,Yes,Male,23,Other,Marketing,friends,Employer_Friends,my head,Male,white,bus,1,10,6,3,6
+344,36,Yes,Female,22,IT,IT,empjs,Employer_JobSite,my head,Male,grey,bus,7,4,6,6,8
+345,40,No,Female,29,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,foot,6,3,4,8,8
+346,40,No,Female,29,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,foot,6,3,4,8,8
+347,2,Yes,Male,23,State,Other,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,6,3,7,6,8
+348,40,No,Female,29,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,foot,6,3,4,8,8
+349,40,No,Female,29,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,foot,6,3,4,8,8
+350,11,Yes,Male,26,IT,IT,empjs,Employer_JobSite,no,Male,white,bus,4,5,6,9,6
+351,85,No,Female,26,Transport,HR,youjs,Person_JobSite,yes,Female,white,bus,8,5,6,5,6
+352,10,Yes,Male,26,Building,Engineer,empjs,Employer_JobSite,my head,Male,white,bus,5,6,6,9,6
+353,64,No,Male,19,IT,IT,youjs,Person_JobSite,no,Male,white,bus,5,6,7,6,6
+354,14,No,Female,33,Retail,HR,youjs,Person_JobSite,no,Male,grey,bus,6,5,6,3,4
+355,21,Yes,Female,24,Consult,Consult,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,6,5,8,4,3
+356,29,No,Female,31,Retail,Accounting,youjs,Person_JobSite,no,Female,white,bus,7,3,7,5,4
+357,155,Yes,Female,33,Pharma,HR,empjs,Employer_JobSite,no,Female,white,car,5,3,6,7,5
+358,14,Yes,Female,22,IT,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,7,3,7,6,6
+359,13,Yes,Female,25,Banks,HR,empjs,Employer_JobSite,my head,Male,white,bus,9,6,3,3,7
+360,3,No,Female,28,Agriculture,HR,friends,Employer_Friends,no,Male,white,bus,6,6,3,6,8
+361,3,No,Female,32,Telecom,HR,youjs,Person_JobSite,no,Female,white,bus,7,6,3,7,7
+362,4,Yes,Female,22,Transport,HR,youjs,Person_JobSite,no,Male,white,bus,2,8,5,7,7
+363,10,Yes,Female,37,Consult,Finanсe,empjs,Employer_JobSite,no,Male,white,bus,7,8,3,6,8
+364,34,Yes,Female,27,Retail,HR,empjs,Employer_JobSite,no,Female,grey,car,8,5,3,6,7
+365,34,Yes,Female,27,Retail,HR,empjs,Employer_JobSite,no,Female,grey,car,10,4,2,6,8
+366,12,Yes,Female,35,Telecom,HR,empjs,Employer_JobSite,my head,Female,white,foot,6,4,6,6,7
+367,165,No,Female,27,Telecom,Marketing,advert,Person_Advert,no,Female,white,car,4,5,5,6,5
+368,33,Yes,Male,24,Consult,HR,empjs,Employer_JobSite,no,Female,white,foot,2,4,6,9,6
+369,5,Yes,Female,25,Banks,HR,youjs,Person_JobSite,my head,Female,grey,bus,5,3,8,6,2
+370,40,Yes,Female,23,Banks,IT,youjs,Person_JobSite,my head,Male,white,bus,5,6,3,4,6
+371,34,No,Female,24,IT,HR,empjs,Employer_JobSite,my head,Female,white,bus,9,7,5,2,4
+372,96,Yes,Male,31,Retail,IT,youjs,Person_JobSite,no,Male,white,bus,5,3,6,10,4
+373,7,Yes,Male,35,Retail,Sales,youjs,Person_JobSite,no,Male,white,foot,5,6,5,4,3
+374,27,Yes,Female,21,State,PR,empjs,Employer_JobSite,no,Female,white,bus,3,6,7,6,2
+375,116,No,Female,19,Retail,HR,rabrecNErab,Employer_ByRecomendation,yes,Female,white,bus,7,6,6,3,5
+376,29,Yes,Female,21,Consult,HR,empjs,Employer_JobSite,yes,Female,white,bus,7,9,2,5,6
+377,26,Yes,Female,24,Building,Other,friends,Employer_Friends,no,Male,grey,bus,5,4,3,8,6
+378,29,No,Female,35,Pharma,HR,KA,RecAgency,my head,Female,white,bus,5,5,6,4,4
+379,58,Yes,Male,25,Retail,Sales,youjs,Person_JobSite,my head,Male,white,car,7,6,4,6,8
+380,134,Yes,Male,19,Manufacture,Accounting,friends,Employer_Friends,no,Female,white,car,6,3,6,7,7
+381,134,Yes,Male,19,Manufacture,Accounting,friends,Employer_Friends,no,Female,white,car,5,7,6,7,5
+382,40,No,Female,30,Banks,HR,friends,Employer_Friends,my head,Female,white,bus,6,6,4,3,5
+383,38,No,Female,35,Manufacture,HR,youjs,Person_JobSite,no,Male,white,bus,8,2,3,4,7
+384,27,No,Female,43,State,Law,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,5,6,6,4,5
+385,25,Yes,Female,22,Consult,HR,empjs,Employer_JobSite,yes,Male,white,bus,6,5,3,7,9
+386,33,Yes,Female,48,Building,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,6,6,6,3,7
+387,23,No,Female,29,IT,IT,empjs,Employer_JobSite,yes,Male,white,car,9,6,4,5,8
+388,23,No,Female,29,IT,IT,empjs,Employer_JobSite,yes,Male,white,car,7,6,6,5,5
+389,49,No,Female,33,PowerGeneration,HR,empjs,Employer_JobSite,my head,Female,white,car,8,6,6,8,6
+390,49,No,Female,33,PowerGeneration,HR,empjs,Employer_JobSite,my head,Female,white,car,4,3,6,9,8
+391,18,Yes,Female,44,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,grey,bus,3,7,4,8,5
+392,8,Yes,Female,24,IT,HR,empjs,Employer_JobSite,my head,Male,white,foot,7,6,5,5,3
+393,42,Yes,Female,42,Consult,HR,friends,Employer_Friends,no,Male,white,bus,3,7,6,6,6
+394,42,Yes,Female,42,Consult,HR,friends,Employer_Friends,no,Male,white,bus,7,6,6,5,4
+395,130,Yes,Female,22,State,Teaching,recNErab,Person_ByRecomendation,my head,Female,grey,bus,3,5,6,5,4
+396,8,Yes,Male,41,IT,IT,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,4,4,6,6,4
+397,9,Yes,Female,26,State,HR,referal,Person_RecReferral,no,Male,white,car,5,6,7,5,7
+398,26,Yes,Male,31,Building,Engineer,youjs,Person_JobSite,no,Male,white,bus,5,4,9,6,4
+399,66,Yes,Female,38,Building,HR,youjs,Person_JobSite,no,Male,white,bus,7,4,5,6,7
+400,10,No,Male,38,Agriculture,HR,youjs,Person_JobSite,no,Female,white,car,8,3,4,8,7
+401,7,Yes,Female,26,Consult,HR,youjs,Person_JobSite,no,Female,grey,bus,7,6,4,5,8
+402,0,No,Female,29,Retail,HR,empjs,Employer_JobSite,my head,Female,grey,bus,5,6,2,7,7
+403,0,No,Female,29,Retail,HR,empjs,Employer_JobSite,my head,Female,grey,bus,5,1,6,9,3
+404,0,No,Female,29,Retail,HR,empjs,Employer_JobSite,my head,Female,grey,bus,5,5,8,9,3
+405,3,Yes,Female,38,Building,HR,KA,RecAgency,no,Male,white,car,5,6,5,5,4
+406,3,Yes,Female,38,Building,HR,KA,RecAgency,no,Male,white,car,6,6,5,3,3
+407,48,No,Male,35,IT,IT,friends,Employer_Friends,no,Male,white,bus,7,6,3,6,9
+408,15,No,Female,39,Other,manage,KA,RecAgency,no,Female,white,bus,4,8,5,7,9
+409,134,Yes,Male,19,Manufacture,Accounting,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,6,3,6,7,7
+410,134,Yes,Male,19,Manufacture,Accounting,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,5,7,6,7,5
+411,33,No,Female,26,IT,HR,empjs,Employer_JobSite,my head,Female,white,bus,9,6,3,4,6
+412,33,No,Female,26,IT,HR,empjs,Employer_JobSite,my head,Female,white,bus,6,8,4,3,7
+413,63,Yes,Male,32,Mining,Law,friends,Employer_Friends,no,Female,white,bus,3,5,4,7,8
+414,9,Yes,Female,26,State,HR,empjs,Employer_JobSite,yes,Male,white,car,5,6,7,5,7
+415,37,No,Male,33,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,5,6,8,7,5
+416,37,No,Male,33,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,5,8,6,7,6
+417,12,No,Female,39,Transport,HR,empjs,Employer_JobSite,no,Female,white,bus,5,4,5,6,4
+418,12,No,Female,39,Transport,HR,empjs,Employer_JobSite,no,Female,white,bus,6,5,6,4,3
+419,29,No,Female,23,Retail,HR,empjs,Employer_JobSite,no,Male,white,bus,7,4,8,5,4
+420,19,No,Female,24,Manufacture,HR,youjs,Person_JobSite,no,Female,white,bus,4,8,8,5,3
+421,2,No,Female,26,Banks,Sales,advert,Person_Advert,no,Female,white,foot,5,8,4,5,8
+422,2,No,Female,26,Banks,Sales,advert,Person_Advert,no,Female,white,foot,5,8,4,6,9
+423,17,No,Female,34,Banks,HR,youjs,Person_JobSite,no,Female,white,bus,1,7,8,4,5
+424,2,No,Female,26,Banks,Sales,advert,Person_Advert,no,Female,white,foot,5,8,4,5,8
+425,2,No,Female,26,Banks,Sales,advert,Person_Advert,no,Female,white,foot,5,8,4,6,9
+426,51,No,Male,32,State,Other,youjs,Person_JobSite,no,Female,white,car,4,3,7,10,5
+427,42,No,Female,29,Retail,HR,empjs,Employer_JobSite,my head,Female,white,bus,6,7,9,3,3
+428,104,No,Female,21,Retail,HR,empjs,Employer_JobSite,no,Female,grey,bus,2,5,9,8,5
+429,104,No,Female,21,Retail,HR,empjs,Employer_JobSite,no,Female,grey,bus,4,3,9,7,4
+430,2,No,Female,26,Banks,Sales,advert,Person_Advert,no,Female,white,foot,5,8,4,5,8
+431,2,No,Female,26,Banks,Sales,advert,Person_Advert,no,Female,white,foot,5,8,4,6,9
+432,2,No,Female,26,Banks,Sales,advert,Person_Advert,no,Female,white,foot,5,8,4,5,8
+433,2,No,Female,26,Banks,Sales,advert,Person_Advert,no,Female,white,foot,5,8,4,6,9
+434,13,Yes,Male,42,Other,Marketing,empjs,Employer_JobSite,no,Female,grey,bus,2,7,3,6,4
+435,2,No,Female,35,Telecom,HR,empjs,Employer_JobSite,no,Female,grey,bus,7,3,3,6,8
+436,49,Yes,Male,42,Consult,Consult,youjs,Person_JobSite,my head,Male,white,bus,5,8,6,6,5
+437,79,No,Male,28,IT,HR,youjs,Person_JobSite,no,Male,white,bus,2,6,7,5,4
+438,36,No,Female,27,PowerGeneration,HR,youjs,Person_JobSite,no,Male,white,foot,3,3,6,7,8
+439,36,No,Female,27,PowerGeneration,HR,youjs,Person_JobSite,no,Male,white,foot,3,6,4,7,8
+440,13,Yes,Male,33,Building,Sales,KA,RecAgency,no,Male,grey,car,8,3,7,4,5
+441,2,No,Female,26,Banks,Sales,advert,Person_Advert,no,Female,white,foot,5,8,4,5,8
+442,2,No,Female,26,Banks,Sales,advert,Person_Advert,no,Female,white,foot,5,8,4,6,9
+443,17,No,Female,31,Transport,manage,friends,Employer_Friends,my head,Male,white,bus,5,6,6,4,4
+444,17,No,Female,31,Transport,manage,friends,Employer_Friends,my head,Male,white,bus,4,3,8,6,6
+445,24,Yes,Female,32,Manufacture,HR,recNErab,Person_ByRecomendation,my head,Female,white,car,5,7,5,6,6
+446,12,No,Female,25,Retail,HR,youjs,Person_JobSite,no,Male,white,car,8,5,6,5,5
+447,6,No,Female,33,Manufacture,HR,KA,RecAgency,no,Male,white,bus,5,9,4,3,6
+448,24,Yes,Female,28,Transport,HR,empjs,Employer_JobSite,no,Male,white,bus,4,5,10,5,2
+449,44,Yes,Male,26,Other,Engineer,friends,Employer_Friends,no,Male,white,bus,8,7,4,6,8
+450,21,Yes,Female,40,Building,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,car,2,8,6,5,7
+451,30,No,Female,26,IT,HR,friends,Employer_Friends,my head,Male,white,bus,5,7,8,4,4
+452,31,No,Male,21,Retail,Sales,rabrecNErab,Employer_ByRecomendation,yes,Male,white,bus,8,4,3,6,8
+453,1,No,Female,27,Retail,HR,youjs,Person_JobSite,my head,Male,white,bus,7,5,6,5,8
+454,24,Yes,Female,29,Mining,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,5,6,6,5,8
+455,32,No,Female,25,Retail,Marketing,youjs,Person_JobSite,yes,Female,white,bus,9,6,3,6,10
+456,64,Yes,Male,44,Retail,Commercial,youjs,Person_JobSite,no,Male,white,bus,3,3,10,9,4
+457,21,Yes,Male,31,RealEstate,Marketing,youjs,Person_JobSite,my head,Female,grey,car,8,4,4,8,8
+458,12,Yes,Female,36,Telecom,HR,youjs,Person_JobSite,no,Female,white,car,7,4,6,6,8
+459,54,Yes,Female,30,State,HR,friends,Employer_Friends,yes,Female,white,foot,5,4,5,9,8
+460,42,No,Female,31,State,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,1,8,7,4,3
+461,27,No,Female,22,Consult,HR,youjs,Person_JobSite,my head,Female,white,bus,6,6,3,6,8
+462,1,Yes,Female,54,Pharma,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,5,8,6,4,4
+463,1,Yes,Female,54,Pharma,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,5,8,6,4,4
+464,42,Yes,Female,36,Manufacture,HR,youjs,Person_JobSite,my head,Female,white,bus,6,5,6,9,8
+465,6,Yes,Female,32,Retail,HR,friends,Employer_Friends,no,Female,grey,car,6,6,2,6,9
+466,43,No,Female,33,Banks,HR,empjs,Employer_JobSite,no,Female,white,bus,7,6,1,9,8
+467,53,No,Female,23,Retail,Other,recNErab,Person_ByRecomendation,my head,Male,white,bus,6,7,5,3,3
+468,18,Yes,Female,41,Banks,HR,empjs,Employer_JobSite,no,Male,white,bus,8,6,3,6,8
+469,18,Yes,Female,41,Banks,HR,empjs,Employer_JobSite,no,Male,white,bus,9,6,3,6,8
+470,18,Yes,Female,41,Banks,HR,empjs,Employer_JobSite,no,Male,white,bus,7,7,4,6,8
+471,26,Yes,Female,30,Banks,HR,youjs,Person_JobSite,no,Female,white,bus,9,7,3,4,8
+472,17,No,Female,26,Manufacture,HR,empjs,Employer_JobSite,no,Male,white,bus,9,6,4,4,4
+473,71,Yes,Female,23,Banks,HR,rabrecNErab,Employer_ByRecomendation,yes,Female,white,car,6,9,4,3,7
+474,71,Yes,Female,23,Banks,HR,rabrecNErab,Employer_ByRecomendation,yes,Female,white,car,7,8,3,3,7
+475,100,No,Female,42,Other,HR,youjs,Person_JobSite,no,Female,white,foot,5,5,6,6,4
+476,43,Yes,Female,25,State,manage,friends,Employer_Friends,no,Male,white,bus,5,6,6,4,4
+477,20,Yes,Female,23,Telecom,HR,empjs,Employer_JobSite,no,Female,white,bus,4,5,7,6,4
+478,96,Yes,Female,22,Other,Sales,recNErab,Person_ByRecomendation,my head,Male,white,foot,7,2,6,6,4
+479,44,No,Female,29,Retail,HR,empjs,Employer_JobSite,my head,Female,white,bus,6,7,9,3,3
+480,104,No,Female,37,Retail,HR,friends,Employer_Friends,no,Male,white,bus,5,5,6,7,4
+481,68,Yes,Male,24,Building,HR,friends,Employer_Friends,yes,Male,white,car,5,6,6,9,5
+482,1,Yes,Male,26,Other,HR,youjs,Person_JobSite,yes,Female,white,bus,6,6,6,4,4
+483,48,Yes,Female,34,Manufacture,manage,KA,RecAgency,no,Female,white,car,7,3,7,5,5
+484,16,Yes,Female,27,Agriculture,Marketing,empjs,Employer_JobSite,yes,Male,white,bus,7,7,3,4,5
+485,16,No,Female,28,Retail,HR,youjs,Person_JobSite,my head,Female,grey,bus,5,6,2,7,7
+486,16,No,Female,28,Retail,HR,youjs,Person_JobSite,my head,Female,grey,bus,5,1,6,9,3
+487,16,No,Female,28,Retail,HR,youjs,Person_JobSite,my head,Female,grey,bus,5,5,8,9,3
+488,37,No,Female,20,Other,HR,KA,RecAgency,no,Female,white,bus,8,8,4,4,5
+489,44,Yes,Male,26,State,IT,empjs,Employer_JobSite,my head,Male,white,bus,5,3,6,7,6
+490,13,Yes,Female,27,IT,HR,youjs,Person_JobSite,my head,Male,white,bus,6,6,5,6,6
+491,107,Yes,Female,22,Telecom,HR,referal,Person_RecReferral,no,Female,white,car,7,3,4,6,8
+492,50,No,Female,31,Manufacture,HR,KA,RecAgency,my head,Male,white,car,9,5,4,3,4
+493,6,Yes,Female,31,Manufacture,HR,youjs,Person_JobSite,my head,Male,grey,car,5,6,6,6,7
+494,46,Yes,Female,31,Other,HR,empjs,Employer_JobSite,no,Male,white,car,5,8,3,6,8
+495,81,Yes,Female,37,Building,HR,friends,Employer_Friends,no,Male,white,car,2,8,8,4,2
+496,49,Yes,Male,42,IT,Consult,youjs,Person_JobSite,my head,Male,white,bus,5,8,6,6,5
+497,20,Yes,Female,22,Retail,HR,empjs,Employer_JobSite,no,Female,white,bus,5,5,5,7,7
+498,20,Yes,Female,22,Retail,HR,empjs,Employer_JobSite,no,Female,white,bus,5,2,8,6,6
+499,4,Yes,Male,40,Agriculture,Sales,empjs,Employer_JobSite,no,Male,white,bus,5,4,7,10,5
+500,24,No,Female,23,Transport,HR,empjs,Employer_JobSite,yes,Male,white,bus,5,6,8,3,4
+501,4,Yes,Female,34,Retail,BusinessDevelopment,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,3,8,5,6,5
+502,84,No,Male,33,State,Sales,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,7,6,4,6,9
+503,18,Yes,Female,46,Building,HR,friends,Employer_Friends,no,Male,white,car,4,6,5,6,5
+504,73,No,Female,22,Retail,HR,empjs,Employer_JobSite,yes,Female,white,bus,4,6,6,8,9
+505,77,No,Female,25,Mining,Finanсe,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,6,6,6,6,4
+506,83,Yes,Female,23,Banks,HR,rabrecNErab,Employer_ByRecomendation,yes,Female,white,car,6,9,4,3,7
+507,83,Yes,Female,23,Banks,HR,rabrecNErab,Employer_ByRecomendation,yes,Female,white,car,7,8,3,3,7
+508,29,Yes,Male,31,Retail,Sales,empjs,Employer_JobSite,my head,Male,grey,bus,6,7,6,3,7
+509,5,No,Female,25,State,HR,youjs,Person_JobSite,no,Female,white,bus,9,5,3,7,9
+510,150,No,Female,30,RealEstate,BusinessDevelopment,referal,Person_RecReferral,my head,Male,white,car,5,7,3,6,8
+511,109,No,Female,22,State,HR,advert,Person_Advert,my head,Female,white,foot,5,6,7,4,3
+512,36,Yes,Female,35,Retail,HR,empjs,Employer_JobSite,no,Male,white,bus,5,8,5,4,6
+513,51,Yes,Female,24,Consult,HR,empjs,Employer_JobSite,my head,Female,white,bus,8,6,3,8,8
+514,109,No,Female,29,Retail,HR,advert,Person_Advert,no,Male,white,car,5,3,10,5,2
+515,11,No,Male,36,Manufacture,Engineer,friends,Employer_Friends,my head,Male,white,bus,8,3,4,9,7
+516,129,No,Male,33,Manufacture,Engineer,recNErab,Person_ByRecomendation,my head,Male,white,bus,5,8,4,5,7
+517,35,No,Female,34,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,9,6,4,6,7
+518,35,No,Female,34,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,9,3,4,7,6
+519,35,No,Female,34,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,8,4,4,7,7
+520,51,No,Female,28,Retail,HR,youjs,Person_JobSite,no,Female,white,car,5,6,6,3,4
+521,15,No,Female,45,State,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,6,6,3,6,8
+522,15,No,Female,45,State,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,5,5,4,8,9
+523,10,Yes,Female,41,Retail,HR,empjs,Employer_JobSite,no,Male,white,bus,3,7,6,5,6
+524,10,Yes,Female,41,Retail,HR,empjs,Employer_JobSite,no,Male,white,bus,2,7,8,6,4
+525,10,Yes,Female,41,Retail,HR,empjs,Employer_JobSite,no,Male,white,bus,3,7,7,5,5
+526,3,Yes,Female,41,Consult,HR,youjs,Person_JobSite,no,Female,white,bus,1,5,9,6,2
+527,3,Yes,Female,41,Consult,HR,youjs,Person_JobSite,no,Female,white,bus,3,8,8,3,2
+528,38,No,Male,33,Retail,HR,empjs,Employer_JobSite,my head,Female,white,bus,2,8,6,5,8
+529,30,Yes,Female,22,Banks,HR,youjs,Person_JobSite,yes,Female,white,bus,6,5,5,5,7
+530,5,No,Female,29,Retail,HR,empjs,Employer_JobSite,my head,Female,grey,bus,5,6,2,7,7
+531,5,No,Female,29,Retail,HR,empjs,Employer_JobSite,my head,Female,grey,bus,5,1,6,9,3
+532,5,No,Female,29,Retail,HR,empjs,Employer_JobSite,my head,Female,grey,bus,5,5,8,9,3
+533,34,Yes,Female,34,Manufacture,Marketing,referal,Person_RecReferral,no,Male,grey,car,9,3,5,3,6
+534,41,No,Male,33,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,5,6,8,7,5
+535,41,No,Male,33,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,5,8,6,7,6
+536,11,No,Female,28,Agriculture,HR,friends,Employer_Friends,no,Female,white,bus,6,6,3,6,8
+537,34,Yes,Female,27,Retail,HR,friends,Employer_Friends,my head,Female,white,bus,5,3,3,9,8
+538,34,Yes,Female,27,Retail,HR,friends,Employer_Friends,my head,Female,white,bus,6,6,7,3,4
+539,11,Yes,Female,35,Transport,Commercial,empjs,Employer_JobSite,no,Female,white,car,8,6,2,6,8
+540,60,Yes,Female,27,Retail,HR,youjs,Person_JobSite,my head,Male,white,bus,6,7,4,6,6
+541,25,Yes,Female,42,Transport,HR,youjs,Person_JobSite,no,Male,white,bus,5,5,4,5,6
+542,34,No,Female,22,Retail,manage,youjs,Person_JobSite,no,Female,white,bus,6,9,5,3,3
+543,54,No,Female,40,RealEstate,HR,youjs,Person_JobSite,no,Female,white,foot,4,8,8,4,4
+544,54,No,Female,40,RealEstate,HR,youjs,Person_JobSite,no,Female,white,foot,5,9,5,3,3
+545,2,No,Male,31,Banks,IT,recNErab,Person_ByRecomendation,no,Male,grey,car,6,4,3,9,8
+546,1,No,Female,43,Other,HR,youjs,Person_JobSite,no,Male,white,bus,3,6,8,7,4
+547,58,No,Female,23,Other,Sales,empjs,Employer_JobSite,my head,Female,white,bus,5,6,10,6,5
+548,23,No,Female,29,Retail,HR,youjs,Person_JobSite,my head,Male,white,bus,8,6,6,4,5
+549,23,No,Female,29,Retail,HR,youjs,Person_JobSite,my head,Male,white,bus,6,6,6,6,3
+550,23,No,Female,29,Retail,HR,youjs,Person_JobSite,my head,Male,white,bus,7,6,6,4,4
+551,47,No,Female,22,State,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,car,5,9,6,6,6
+552,15,Yes,Female,44,State,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,grey,car,4,6,6,6,7
+553,39,No,Male,21,IT,IT,friends,Employer_Friends,my head,Male,white,foot,4,6,6,8,4
+554,48,No,Male,40,IT,Sales,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,1,7,10,6,1
+555,4,Yes,Female,32,Other,Marketing,youjs,Person_JobSite,no,Male,white,bus,4,6,6,4,6
+556,67,No,Male,31,Banks,Other,friends,Employer_Friends,no,Male,white,bus,5,8,4,4,6
+557,14,Yes,Female,23,Other,HR,friends,Employer_Friends,my head,Female,white,bus,5,8,6,3,2
+558,109,Yes,Male,27,Building,HR,referal,Person_RecReferral,no,Male,white,car,4,6,8,6,6
+559,87,No,Female,25,Manufacture,HR,youjs,Person_JobSite,my head,Female,white,bus,5,8,10,3,1
+560,87,No,Female,25,Manufacture,HR,youjs,Person_JobSite,my head,Female,white,bus,5,6,7,6,3
+561,18,Yes,Male,39,Banks,Finanсe,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,4,8,6,5,5
+562,133,Yes,Female,29,Retail,Sales,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,5,7,3,8,7
+563,8,Yes,Female,24,Consult,HR,youjs,Person_JobSite,no,Female,white,bus,6,3,7,3,4
+564,8,Yes,Female,24,Consult,HR,youjs,Person_JobSite,no,Female,white,bus,6,6,7,7,4
+565,13,Yes,Female,33,Manufacture,HR,youjs,Person_JobSite,yes,Male,white,car,9,6,2,5,7
+566,56,Yes,Female,27,Retail,Sales,friends,Employer_Friends,yes,Male,white,bus,5,7,7,3,7
+567,13,Yes,Female,29,Consult,HR,advert,Person_Advert,my head,Female,white,foot,4,5,6,8,7
+568,32,No,Female,29,Manufacture,HR,friends,Employer_Friends,no,Female,white,bus,4,5,6,8,7
+569,164,Yes,Male,19,Manufacture,HR,referal,Person_RecReferral,no,Male,white,car,5,6,6,8,6
+570,32,Yes,Male,29,Consult,HR,empjs,Employer_JobSite,my head,Male,white,bus,5,3,10,6,1
+571,5,No,Female,27,Manufacture,HR,youjs,Person_JobSite,no,Male,white,car,5,4,6,7,4
+572,14,No,Female,29,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,6,3,5,8,8
+573,52,No,Male,33,PowerGeneration,Other,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,6,5,5,6,5
+574,23,Yes,Female,30,RealEstate,HR,rabrecNErab,Employer_ByRecomendation,no,Male,grey,bus,8,3,5,6,5
+575,19,No,Female,31,Other,HR,empjs,Employer_JobSite,my head,Female,white,bus,7,3,4,9,5
+576,74,No,Male,33,Telecom,IT,friends,Employer_Friends,yes,Male,white,car,7,6,3,6,8
+577,9,No,Male,34,Manufacture,HR,youjs,Person_JobSite,my head,Female,white,bus,9,8,1,4,5
+578,48,Yes,Female,34,Mining,manage,KA,RecAgency,no,Female,white,bus,7,3,7,5,5
+579,15,Yes,Male,29,PowerGeneration,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,4,3,8,6,6
+580,64,Yes,Female,31,Building,Marketing,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,4,6,3,9,9
+581,49,Yes,Male,42,Consult,Consult,youjs,Person_JobSite,my head,Male,white,bus,5,8,6,6,5
+582,13,Yes,Female,34,Mining,HR,empjs,Employer_JobSite,no,Male,white,car,6,5,4,6,7
+583,18,Yes,Female,39,Retail,HR,rabrecNErab,Employer_ByRecomendation,yes,Male,white,car,6,8,4,3,4
+584,114,Yes,Female,38,Mining,Finanсe,referal,Person_RecReferral,no,Male,white,bus,4,3,10,7,3
+585,8,No,Female,42,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,4,8,3,5,8
+586,8,Yes,Female,33,Manufacture,HR,referal,Person_RecReferral,my head,Male,grey,car,8,7,3,5,8
+587,27,Yes,Female,44,Transport,HR,referal,Person_RecReferral,no,Male,white,car,4,6,5,6,10
+588,1,Yes,Male,28,Transport,Commercial,referal,Person_RecReferral,no,Male,white,bus,6,3,6,9,6
+589,95,No,Female,30,Retail,HR,advert,Person_Advert,no,Female,grey,bus,6,4,4,6,8
+590,13,Yes,Female,24,Other,HR,empjs,Employer_JobSite,my head,Female,white,bus,9,5,4,6,5
+591,20,Yes,Female,29,Manufacture,HR,empjs,Employer_JobSite,no,Male,white,car,6,6,5,5,8
+592,35,No,Male,27,Other,Sales,youjs,Person_JobSite,yes,Male,grey,bus,10,3,4,6,9
+593,97,Yes,Male,30,Retail,Sales,KA,RecAgency,no,Male,white,car,6,8,5,5,8
+594,12,Yes,Female,39, HoReCa,HR,youjs,Person_JobSite,no,Male,white,foot,4,7,6,6,4
+595,11,Yes,Female,26,Telecom,IT,youjs,Person_JobSite,my head,Male,grey,bus,7,4,3,9,9
+596,4,No,Male,40,State,Consult,KA,RecAgency,no,Male,grey,foot,7,6,4,6,9
+597,2,No,Female,28,Building,HR,empjs,Employer_JobSite,my head,Male,white,bus,7,7,3,4,5
+598,18,No,Female,39,Transport,HR,youjs,Person_JobSite,no,Female,white,bus,5,4,5,6,4
+599,18,No,Female,39,Transport,HR,youjs,Person_JobSite,no,Female,white,bus,6,5,6,4,3
+600,18,No,Female,24,Retail,HR,friends,Employer_Friends,my head,Female,white,bus,5,5,5,7,7
+601,18,No,Female,24,Retail,HR,friends,Employer_Friends,my head,Female,white,bus,5,2,8,6,6
+602,10,No,Female,34,Other,Other,empjs,Employer_JobSite,my head,Female,white,car,6,1,7,5,6
+603,8,No,Female,23,Transport,HR,youjs,Person_JobSite,my head,Female,white,bus,5,8,8,6,2
+604,84,No,Male,28,IT,HR,youjs,Person_JobSite,no,Male,white,bus,2,6,7,5,4
+605,8,No,Female,30,Transport,HR,youjs,Person_JobSite,no,Male,white,bus,6,6,6,3,4
+606,10,Yes,Female,34,State,Teaching,referal,Person_RecReferral,no,Female,white,bus,8,8,3,3,8
+607,44,Yes,Female,32,Transport,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,6,5,3,6,10
+608,83,No,Female,20,Telecom,HR,recNErab,Person_ByRecomendation,yes,Female,white,foot,4,7,6,6,7
+609,28,No,Female,25,Consult,HR,empjs,Employer_JobSite,no,Female,white,bus,7,4,6,6,8
+610,4,Yes,Female,23,Other,HR,rabrecNErab,Employer_ByRecomendation,yes,Male,white,bus,7,5,7,5,4
+611,48,Yes,Female,25,State,Consult,rabrecNErab,Employer_ByRecomendation,yes,Female,white,bus,7,4,6,6,8
+612,9,Yes,Female,25,Retail,IT,empjs,Employer_JobSite,no,Female,grey,bus,7,3,6,8,5
+613,31,No,Female,37,IT,HR,empjs,Employer_JobSite,my head,Female,white,bus,5,7,6,6,7
+614,26,No,Male,36,Transport,Other,empjs,Employer_JobSite,no,Male,grey,bus,4,8,6,6,6
+615,18,No,Female,23,PowerGeneration,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,7,6,4,5,6
+616,7,No,Female,26,State,HR,youjs,Person_JobSite,no,Male,white,bus,8,6,3,7,7
+617,23,Yes,Female,32,Consult,HR,friends,Employer_Friends,no,Female,white,car,6,6,7,3,3
+618,100,No,Female,23,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,5,6,6,5,10
+619,36,No,Female,45,Transport,HR,recNErab,Person_ByRecomendation,no,Female,white,car,5,5,5,9,5
+620,19,Yes,Female,25,Consult,HR,empjs,Employer_JobSite,my head,Female,grey,bus,7,5,6,5,5
+621,44,No,Female,38,Retail,HR,friends,Employer_Friends,no,Male,white,bus,8,8,3,6,8
+622,90,No,Female,20,Telecom,HR,referal,Person_RecReferral,my head,Female,white,bus,9,7,3,3,8
+623,22,Yes,Female,34,Retail,HR,empjs,Employer_JobSite,no,Male,white,car,8,4,3,5,4
+624,34,No,Female,24,IT,HR,empjs,Employer_JobSite,no,Male,white,bus,6,6,5,3,4
+625,6,No,Female,38,Retail,BusinessDevelopment,youjs,Person_JobSite,no,Male,white,car,7,5,4,7,9
+626,20,No,Female,33,Pharma,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,5,7,4,5,6
+627,26,Yes,Male,25,Retail,IT,referal,Person_RecReferral,no,Male,white,car,2,8,6,8,6
+628,25,No,Female,32,Manufacture,HR,KA,RecAgency,no,Male,white,car,6,7,6,5,8
+629,42,Yes,Female,36,Manufacture,Sales,KA,RecAgency,no,Male,grey,car,9,5,2,7,8
+630,24,Yes,Female,32,Other,HR,youjs,Person_JobSite,my head,Female,white,bus,5,7,7,8,7
+631,80,Yes,Female,25,Consult,HR,youjs,Person_JobSite,my head,Female,white,bus,6,6,6,3,7
+632,22,No,Male,37,Manufacture,Other,youjs,Person_JobSite,no,Male,white,bus,3,8,6,6,7
+633,42,Yes,Female,26,Consult,BusinessDevelopment,empjs,Employer_JobSite,my head,Male,white,bus,9,7,3,3,6
+634,33,No,Male,32,Retail,HR,youjs,Person_JobSite,no,Male,white,bus,5,3,6,9,6
+635,65,No,Female,25,Other,HR,KA,RecAgency,my head,Male,white,foot,8,4,6,4,4
+636,3,Yes,Female,37,IT,HR,empjs,Employer_JobSite,yes,Female,white,bus,6,7,6,6,5
+637,89,Yes,Female,25,Transport,HR,referal,Person_RecReferral,my head,Female,white,car,5,7,5,4,6
+638,110,No,Female,25,Pharma,HR,friends,Employer_Friends,my head,Female,white,bus,10,2,3,7,10
+639,14,No,Female,56,Retail,HR,empjs,Employer_JobSite,no,Male,white,bus,5,6,5,6,7
+640,12,Yes,Male,24,State,Teaching,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,6,4,6,6,4
+641,102,No,Female,32,IT,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,5,8,4,5,6
+642,179,No,Female,24,Retail,HR,KA,RecAgency,no,Female,white,bus,7,5,3,6,8
+643,12,No,Female,24,Pharma,HR,youjs,Person_JobSite,yes,Female,white,bus,5,7,6,6,4
+644,25,No,Female,24,Manufacture,HR,youjs,Person_JobSite,no,Male,white,bus,4,8,8,5,3
+645,62,No,Male,31,Banks,HR,youjs,Person_JobSite,no,Female,white,car,5,5,9,6,4
+646,24,No,Female,27,Building,HR,empjs,Employer_JobSite,no,Male,white,bus,9,6,5,3,4
+647,64,No,Female,37,Manufacture,HR,KA,RecAgency,no,Male,white,foot,6,7,3,7,7
+648,5,Yes,Female,38,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,1,4,7,6,8
+649,65,No,Female,35,Consult,HR,friends,Employer_Friends,my head,Female,white,foot,7,6,7,3,5
+650,65,No,Female,35,Consult,HR,friends,Employer_Friends,my head,Female,white,foot,9,7,6,3,4
+651,3,No,Male,29,PowerGeneration,HR,friends,Employer_Friends,no,Female,white,bus,7,6,8,6,8
+652,2,No,Male,25,Retail,Marketing,youjs,Person_JobSite,no,Female,white,car,6,3,6,6,7
+653,27,Yes,Female,26,Consult,HR,youjs,Person_JobSite,my head,Female,white,bus,9,4,5,6,5
+654,145,No,Female,27,Manufacture,HR,referal,Person_RecReferral,no,Female,white,car,5,9,3,5,6
+655,45,Yes,Female,34,Retail,HR,youjs,Person_JobSite,no,Female,white,bus,7,2,10,6,6
+656,45,Yes,Female,34,Retail,HR,youjs,Person_JobSite,no,Female,white,bus,6,3,9,6,6
+657,45,Yes,Female,34,Retail,HR,youjs,Person_JobSite,no,Female,white,bus,5,3,10,3,4
+658,45,Yes,Female,34,Retail,HR,youjs,Person_JobSite,no,Female,white,bus,5,6,10,3,5
+659,6,No,Female,35, HoReCa,HR,youjs,Person_JobSite,no,Female,white,bus,5,6,7,6,3
+660,23,Yes,Female,36,PowerGeneration,Accounting,empjs,Employer_JobSite,no,Female,white,bus,8,2,4,7,9
+661,97,No,Female,46,Other,Marketing,friends,Employer_Friends,no,Male,white,bus,5,8,5,8,6
+662,11,Yes,Female,32,Building,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,car,8,6,5,6,9
+663,17,No,Female,38,Retail,HR,youjs,Person_JobSite,no,Female,white,foot,7,2,10,6,6
+664,17,No,Female,38,Retail,HR,youjs,Person_JobSite,no,Female,white,foot,6,3,9,6,6
+665,17,No,Female,38,Retail,HR,youjs,Person_JobSite,no,Female,white,foot,5,3,10,3,4
+666,17,No,Female,38,Retail,HR,youjs,Person_JobSite,no,Female,white,foot,5,6,10,3,5
+667,61,No,Female,25,Other,HR,youjs,Person_JobSite,no,Female,white,bus,6,6,3,6,7
+668,9,Yes,Female,23,Retail,HR,youjs,Person_JobSite,no,Female,white,bus,7,6,3,5,7
+669,82,No,Female,31,Retail,HR,youjs,Person_JobSite,yes,Female,white,bus,5,6,7,3,3
+670,82,No,Female,31,Retail,HR,youjs,Person_JobSite,yes,Female,white,bus,5,6,7,5,4
+671,56,No,Female,40,Other,HR,youjs,Person_JobSite,no,Female,white,foot,4,8,8,4,4
+672,56,No,Female,40,Other,HR,youjs,Person_JobSite,no,Female,white,foot,5,9,5,3,3
+673,50,No,Male,40,IT,Sales,friends,Employer_Friends,no,Male,white,car,1,7,10,6,1
+674,57,No,Male,26,Building,HR,friends,Employer_Friends,my head,Male,white,car,5,7,5,6,7
+675,164,No,Male,23,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,5,6,8,7,5
+676,164,No,Male,23,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,5,8,6,7,6
+677,54,Yes,Male,37,IT,IT,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,8,5,3,6,10
+678,24,No,Female,34,Banks,HR,youjs,Person_JobSite,no,Female,white,bus,4,7,7,6,5
+679,1,Yes,Female,29,Banks,HR,youjs,Person_JobSite,my head,Female,white,bus,5,4,6,5,4
+680,60,Yes,Female,27,Retail,HR,youjs,Person_JobSite,my head,Male,white,car,6,7,4,6,6
+681,27,No,Female,31,Consult,Marketing,rabrecNErab,Employer_ByRecomendation,no,Male,white,foot,5,6,3,8,8
+682,89,Yes,Male,18,Retail,Sales,referal,Person_RecReferral,my head,Male,white,bus,8,6,3,7,8
+683,47,No,Female,31, HoReCa,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,7,5,6,4,7
+684,21,No,Female,27,Retail,HR,empjs,Employer_JobSite,my head,Male,white,bus,5,8,6,4,4
+685,8,No,Female,35,Other,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,5,7,7,8,7
+686,48,No,Female,39,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,3,8,10,3,4
+687,48,No,Female,39,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,3,8,8,4,1
+688,42,No,Female,27,PowerGeneration,HR,youjs,Person_JobSite,no,Male,white,bus,3,3,6,7,8
+689,42,No,Female,27,PowerGeneration,HR,youjs,Person_JobSite,no,Male,white,bus,3,6,4,7,8
+690,39,Yes,Female,37,Retail,HR,friends,Employer_Friends,no,Female,white,car,6,7,4,6,8
+691,39,Yes,Female,37,Retail,HR,friends,Employer_Friends,no,Female,white,car,4,9,5,6,8
+692,39,Yes,Female,37,Retail,HR,friends,Employer_Friends,no,Female,white,car,6,7,4,6,8
+693,39,Yes,Female,37,Retail,HR,friends,Employer_Friends,no,Female,white,car,4,9,5,6,8
+694,44,No,Female,36,IT,HR,youjs,Person_JobSite,my head,Female,white,bus,5,7,6,6,7
+695,14,No,Female,31,IT,HR,friends,Employer_Friends,my head,Female,white,bus,6,6,6,3,7
+696,34,No,Female,23,Retail,HR,empjs,Employer_JobSite,my head,Female,white,bus,6,4,8,4,4
+697,70,No,Female,31,Manufacture,HR,friends,Employer_Friends,my head,Female,white,bus,1,8,8,6,1
+698,40,No,Male,22,Other,HR,youjs,Person_JobSite,no,Female,white,bus,9,3,6,6,7
+699,145,Yes,Male,30,Retail,Finanсe,friends,Employer_Friends,no,Female,white,bus,9,3,5,7,8
+700,15,No,Female,45,Retail,HR,friends,Employer_Friends,no,Female,white,foot,4,7,8,6,5
+701,58,No,Female,33,PowerGeneration,HR,empjs,Employer_JobSite,my head,Female,white,car,8,6,6,8,6
+702,58,No,Female,33,PowerGeneration,HR,empjs,Employer_JobSite,my head,Female,white,car,4,3,6,9,8
+703,48,Yes,Female,33,Banks,HR,empjs,Employer_JobSite,no,Female,white,bus,7,6,1,9,8
+704,42,Yes,Female,18,Banks,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,6,6,4,3,5
+705,13,Yes,Female,36,PowerGeneration,HR,youjs,Person_JobSite,my head,Male,white,bus,6,6,6,6,7
+706,16,No,Female,41,Retail,HR,youjs,Person_JobSite,no,Male,grey,bus,8,8,4,2,5
+707,29,Yes,Female,29,Banks,HR,friends,Employer_Friends,no,Female,white,bus,6,6,5,6,10
+708,1,No,Female,50,Pharma,BusinessDevelopment,youjs,Person_JobSite,no,Male,grey,car,5,6,8,5,5
+709,57,No,Female,34, HoReCa,HR,youjs,Person_JobSite,no,Female,white,car,6,4,7,5,1
+710,117,Yes,Male,38,Retail,Commercial,KA,RecAgency,yes,Male,white,car,8,9,3,4,9
+711,40,No,Female,25,IT,HR,youjs,Person_JobSite,no,Male,white,bus,6,7,3,6,8
+712,50,Yes,Female,30,State,Finanсe,referal,Person_RecReferral,no,Male,grey,bus,10,6,4,4,8
+713,12,Yes,Male,27,Retail,Sales,youjs,Person_JobSite,my head,Male,white,car,4,3,3,10,9
+714,19,Yes,Female,38,Retail,Commercial,empjs,Employer_JobSite,no,Male,white,car,7,7,4,4,7
+715,44,No,Female,29,Retail,HR,youjs,Person_JobSite,no,Female,white,car,9,6,5,5,9
+716,132,No,Female,26,Telecom,IT,youjs,Person_JobSite,my head,Male,white,car,3,7,5,6,6
+717,14,No,Female,27,Manufacture,HR,empjs,Employer_JobSite,no,Female,white,bus,7,5,6,5,4
+718,19,No,Male,43,Consult,IT,referal,Person_RecReferral,no,Male,white,foot,6,4,6,7,8
+719,82,Yes,Male,34,Retail,Commercial,KA,RecAgency,no,Male,white,car,4,3,7,9,8
+720,17,No,Female,31,Other,HR,rabrecNErab,Employer_ByRecomendation,no,Female,grey,bus,9,5,3,8,7
+721,21,No,Female,27,Manufacture,HR,friends,Employer_Friends,no,Male,white,bus,8,5,2,6,6
+722,51,No,Female,28,Manufacture,HR,youjs,Person_JobSite,my head,Female,white,car,7,5,6,3,4
+723,6,No,Female,21,Consult,HR,friends,Employer_Friends,yes,Female,grey,bus,7,6,4,5,7
+724,7,Yes,Female,39,State,HR,friends,Employer_Friends,no,Female,white,car,7,4,3,8,8
+725,7,Yes,Female,39,State,HR,friends,Employer_Friends,no,Female,white,car,8,6,3,6,7
+726,2,Yes,Female,39,State,Teaching,rabrecNErab,Employer_ByRecomendation,no,Male,grey,bus,2,7,9,6,5
+727,27,Yes,Female,27,Retail,Sales,referal,Person_RecReferral,my head,Male,white,bus,9,8,1,6,10
+728,79,Yes,Male,29,Retail,IT,referal,Person_RecReferral,yes,Male,white,car,1,4,10,5,1
+729,1,No,Female,49,Telecom,HR,friends,Employer_Friends,no,Male,white,car,5,3,4,6,7
+730,140,No,Male,27,Retail,BusinessDevelopment,referal,Person_RecReferral,no,Male,white,car,4,6,4,8,5
+731,27,Yes,Female,28,Banks,HR,youjs,Person_JobSite,no,Female,white,foot,4,9,6,5,7
+732,26,Yes,Female,27,Consult,Sales,rabrecNErab,Employer_ByRecomendation,my head,Male,grey,bus,7,5,5,6,7
+733,5,No,Male,23,Consult,HR,empjs,Employer_JobSite,my head,Male,white,bus,5,6,5,6,8
+734,40,No,Male,41,IT,IT,friends,Employer_Friends,no,Male,white,car,1,7,10,6,1
+735,32,No,Male,49,PowerGeneration,IT,friends,Employer_Friends,no,Male,grey,car,3,3,9,6,4
+736,2,No,Male,30,IT,IT,friends,Employer_Friends,my head,Male,white,bus,6,5,7,5,4
+737,50,No,Female,21,Banks,HR,youjs,Person_JobSite,my head,Female,grey,bus,5,7,7,7,1
+738,71,Yes,Female,24,Manufacture,HR,referal,Person_RecReferral,no,Female,white,bus,8,6,7,6,4
+739,15,Yes,Female,34,Retail,HR,youjs,Person_JobSite,my head,Male,white,car,4,5,6,8,7
+740,37,Yes,Male,38,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,7,3,6,9,5
+741,27,No,Female,32,Other,Sales,empjs,Employer_JobSite,no,Male,white,bus,8,6,3,4,8
+742,33,Yes,Female,58,Retail,Accounting,youjs,Person_JobSite,no,Male,white,bus,5,5,6,5,6
+743,5,No,Male,29,PowerGeneration,HR,friends,Employer_Friends,no,Female,white,bus,7,6,8,6,8
+744,80,No,Male,23,IT,IT,youjs,Person_JobSite,my head,Male,white,car,5,6,9,5,4
+745,13,No,Female,36,IT,HR,recNErab,Person_ByRecomendation,yes,Male,white,bus,5,7,5,6,6
+746,20,No,Female,45,State,HR,rabrecNErab,Employer_ByRecomendation,no,Female,grey,bus,6,6,3,6,8
+747,20,No,Female,45,State,HR,rabrecNErab,Employer_ByRecomendation,no,Female,grey,bus,5,5,4,8,9
+748,10,Yes,Female,28,Consult,HR,youjs,Person_JobSite,my head,Male,white,bus,7,4,3,5,7
+749,11,Yes,Female,37,Mining,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,5,5,8,6,8
+750,128,No,Female,32,Building,HR,KA,RecAgency,no,Male,white,bus,8,7,4,3,8
+751,6,No,Male,37,IT,IT,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,6,7,4,4,8
+752,61,No,Male,29,IT,IT,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,1,6,10,7,3
+753,110,No,Female,25,Retail,HR,youjs,Person_JobSite,my head,Male,white,car,6,3,6,6,8
+754,52,No,Male,27,Retail,IT,KA,RecAgency,no,Male,white,bus,4,6,4,9,7
+755,6,No,Female,42,IT,IT,KA,RecAgency,no,Male,white,foot,1,8,9,5,5
+756,23,Yes,Male,32,IT,IT,empjs,Employer_JobSite,no,Male,white,car,1,8,10,6,5
+757,6,No,Male,28,Banks,IT,rabrecNErab,Employer_ByRecomendation,yes,Male,white,bus,2,8,6,6,3
+758,11,No,Male,40,State,Finanсe,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,5,8,6,6,8
+759,24,Yes,Male,22,Building,Consult,friends,Employer_Friends,yes,Male,white,bus,7,5,3,7,7
+760,51,Yes,Male,34,IT,IT,referal,Person_RecReferral,no,Female,white,car,4,3,6,8,7
+761,39,No,Male,40,IT,IT,empjs,Employer_JobSite,no,Male,white,car,4,6,9,6,4
+762,17,No,Male,24,IT,IT,empjs,Employer_JobSite,yes,Male,white,bus,5,5,6,6,4
+763,28,No,Male,34,IT,IT,referal,Person_RecReferral,no,Male,white,foot,6,1,7,6,9
+764,32,No,Male,29,IT,IT,youjs,Person_JobSite,no,Male,white,bus,4,3,6,8,8
+765,5,No,Male,40,Consult,IT,friends,Employer_Friends,no,Male,white,foot,4,4,7,9,7
+766,5,No,Female,23,IT,HR,rabrecNErab,Employer_ByRecomendation,yes,Male,white,bus,5,5,6,7,7
+767,13,Yes,Female,36,PowerGeneration,HR,youjs,Person_JobSite,my head,Male,white,bus,6,6,6,6,7
+768,41,Yes,Male,35,IT,IT,referal,Person_RecReferral,yes,Male,white,car,6,8,4,6,7
+769,37,No,Male,24,IT,IT,empjs,Employer_JobSite,yes,Male,white,car,5,2,6,9,6
+770,104,No,Female,34,Retail,Accounting,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,5,3,8,6,5
+771,9,Yes,Male,44,IT,Engineer,empjs,Employer_JobSite,no,Male,white,bus,7,8,6,6,6
+772,17,No,Female,29,Banks,HR,friends,Employer_Friends,my head,Female,white,bus,4,8,8,6,4
+773,34,No,Male,34,Manufacture,HR,referal,Person_RecReferral,my head,Female,white,bus,8,5,7,6,8
+774,17,No,Male,28,IT,IT,empjs,Employer_JobSite,my head,Male,white,bus,5,5,6,6,4
+775,17,No,Female,23,Retail,HR,youjs,Person_JobSite,no,Female,white,bus,3,5,6,6,4
+776,43,No,Female,37,Transport,HR,youjs,Person_JobSite,no,Male,white,bus,5,6,8,5,6
+777,17,No,Male,29,Mining,HR,empjs,Employer_JobSite,no,Female,white,foot,2,8,6,9,6
+778,17,No,Male,29,Mining,HR,empjs,Employer_JobSite,no,Female,white,foot,2,6,7,7,7
+779,83,No,Male,23,Retail,Sales,empjs,Employer_JobSite,my head,Male,white,bus,6,3,9,5,5
+780,2,No,Female,32,Retail,HR,youjs,Person_JobSite,no,Female,white,bus,5,4,6,6,6
+781,73,No,Female,29,Retail,Commercial,friends,Employer_Friends,my head,Male,white,foot,5,5,7,6,3
+782,0,Yes,Male,36,IT,IT,empjs,Employer_JobSite,no,Male,white,foot,4,8,3,8,4
+783,124,No,Female,32,Manufacture,HR,friends,Employer_Friends,no,Male,grey,car,4,9,5,5,6
+784,13,Yes,Female,26,Consult,HR,empjs,Employer_JobSite,my head,Male,grey,bus,8,7,4,4,4
+785,8,No,Female,30,Retail,HR,referal,Person_RecReferral,no,Male,white,car,5,3,3,9,8
+786,8,No,Female,30,Retail,HR,referal,Person_RecReferral,no,Male,white,car,6,6,7,3,4
+787,155,No,Female,30,RealEstate,Sales,referal,Person_RecReferral,my head,Male,white,foot,5,7,3,6,8
+788,16,No,Female,24,Mining,HR,advert,Person_Advert,yes,Female,white,bus,5,4,6,6,2
+789,19,No,Male,28,IT,IT,referal,Person_RecReferral,no,Male,white,bus,5,5,7,6,5
+790,21,No,Female,26,Consult,HR,empjs,Employer_JobSite,no,Male,white,bus,10,4,1,7,8
+791,3,No,Female,41,Manufacture,HR,friends,Employer_Friends,no,Female,white,bus,7,5,3,6,8
+792,37,Yes,Female,38,Manufacture,HR,KA,RecAgency,my head,Male,white,car,3,3,7,6,5
+793,18,Yes,Female,24,Consult,HR,youjs,Person_JobSite,no,Female,white,bus,5,7,7,3,4
+794,12,No,Female,37,Telecom,HR,youjs,Person_JobSite,no,Female,white,foot,7,4,6,6,8
+795,5,No,Female,47,Manufacture,HR,recNErab,Person_ByRecomendation,no,Female,white,car,5,8,5,5,7
+796,23,No,Female,26,Retail,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,car,5,6,5,8,7
+797,4,No,Female,46,Manufacture,HR,friends,Employer_Friends,no,Female,white,bus,3,4,6,6,5
+798,3,No,Female,30,IT,HR,empjs,Employer_JobSite,no,Male,white,bus,6,8,3,6,8
+799,11,Yes,Female,37,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,7,6,3,6,9
+800,9,No,Female,30,IT,HR,referal,Person_RecReferral,my head,Male,white,bus,5,3,3,9,8
+801,9,No,Female,30,IT,HR,referal,Person_RecReferral,my head,Male,white,bus,6,6,7,3,4
+802,25,No,Female,34,IT,HR,friends,Employer_Friends,no,Male,white,bus,5,4,3,8,8
+803,6,No,Female,23,Retail,HR,youjs,Person_JobSite,my head,Female,white,bus,5,7,6,5,9
+804,32,Yes,Female,35,Manufacture,HR,youjs,Person_JobSite,no,Male,white,car,5,4,4,7,8
+805,53,Yes,Female,42,Manufacture,HR,empjs,Employer_JobSite,no,Male,white,bus,8,6,9,5,6
+806,4,No,Female,41,Manufacture,HR,friends,Employer_Friends,no,Male,white,bus,3,3,7,6,5
+807,31,No,Female,41,Agriculture,HR,empjs,Employer_JobSite,no,Male,white,car,8,3,4,6,4
+808,5,No,Female,42,IT,HR,youjs,Person_JobSite,my head,Male,white,bus,8,6,3,6,8
+809,5,No,Female,42,IT,HR,youjs,Person_JobSite,my head,Male,white,bus,9,6,3,6,8
+810,5,No,Female,42,IT,HR,youjs,Person_JobSite,my head,Male,white,bus,7,7,4,6,8
+811,39,Yes,Female,37,Retail,HR,friends,Employer_Friends,no,Female,white,car,6,7,4,6,8
+812,39,Yes,Female,37,Retail,HR,friends,Employer_Friends,no,Female,white,car,4,9,5,6,8
+813,39,No,Female,33,Retail,HR,referal,Person_RecReferral,my head,Male,white,car,5,4,6,6,7
+814,2,Yes,Female,48,PowerGeneration,HR,empjs,Employer_JobSite,no,Female,white,bus,6,5,6,9,8
+815,105,No,Female,34,Retail,Accounting,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,5,3,8,6,5
+816,7,No,Female,23,Consult,Other,youjs,Person_JobSite,my head,Male,white,foot,5,8,5,6,5
+817,13,Yes,Female,21,PowerGeneration,HR,youjs,Person_JobSite,my head,Female,grey,bus,4,7,9,4,7
+818,8,No,Male,24,IT,IT,empjs,Employer_JobSite,no,Male,white,bus,4,4,4,9,6
+819,4,No,Female,21,IT,HR,advert,Person_Advert,no,Male,white,bus,7,5,4,6,8
+820,12,No,Female,38,Consult,HR,youjs,Person_JobSite,my head,Female,white,bus,2,8,7,3,5
+821,38,No,Female,34,Telecom,HR,youjs,Person_JobSite,yes,Female,white,bus,3,6,9,6,8
+822,33,No,Female,27,Pharma,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,3,6,10,6,4
+823,4,No,Female,32,Retail,Sales,youjs,Person_JobSite,no,Male,white,car,7,4,9,3,1
+824,44,Yes,Female,27,Other,HR,youjs,Person_JobSite,my head,Female,white,bus,5,6,6,6,7
+825,22,Yes,Female,31,IT,IT,youjs,Person_JobSite,my head,Male,white,bus,5,6,7,5,5
+826,4,Yes,Female,26,Retail,Sales,referal,Person_RecReferral,my head,Female,grey,bus,5,8,3,5,9
+827,12,No,Male,28,IT,IT,friends,Employer_Friends,no,Male,white,foot,2,6,9,6,6
+828,17,Yes,Female,24,Retail,HR,youjs,Person_JobSite,my head,Female,white,bus,6,5,7,4,7
+829,50,No,Male,34,Manufacture,HR,KA,RecAgency,no,Male,white,car,5,4,8,7,8
+830,50,No,Male,34,Manufacture,HR,KA,RecAgency,no,Male,white,car,3,6,7,8,6
+831,85,No,Female,22,Retail,Commercial,referal,Person_RecReferral,no,Female,white,bus,7,6,6,5,3
+832,30,No,Female,30,Transport,HR,empjs,Employer_JobSite,no,Male,white,bus,4,3,7,8,3
+833,78,No,Female,27,Consult,Consult,advert,Person_Advert,no,Male,white,bus,6,3,6,5,8
+834,24,No,Female,30,State,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,5,10,3,6,7
+835,24,Yes,Female,42,Transport,HR,empjs,Employer_JobSite,no,Male,white,bus,5,5,4,5,6
+836,1,No,Female,24,Mining,HR,youjs,Person_JobSite,no,Female,white,bus,5,8,7,3,4
+837,9,No,Male,36,PowerGeneration,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,7,5,4,4,4
+838,15,No,Female,30,IT,HR,friends,Employer_Friends,no,Male,white,car,9,4,3,6,8
+839,59,No,Female,24,Retail,HR,youjs,Person_JobSite,yes,Female,white,bus,9,4,5,8,5
+840,92,Yes,Female,39,Banks,HR,referal,Person_RecReferral,no,Male,white,car,5,9,3,3,8
+841,12,No,Male,35,State,HR,empjs,Employer_JobSite,no,Female,white,bus,4,5,7,6,7
+842,19,No,Male,39,Retail,IT,friends,Employer_Friends,my head,Female,white,car,8,3,3,7,7
+843,21,No,Male,27,Consult,HR,youjs,Person_JobSite,my head,Male,white,bus,3,5,6,7,8
+844,81,No,Female,27,Mining,HR,youjs,Person_JobSite,no,Male,white,bus,3,6,7,5,7
+845,23,No,Female,24,Retail,HR,friends,Employer_Friends,my head,Female,white,bus,5,5,5,7,7
+846,23,No,Female,24,Retail,HR,friends,Employer_Friends,my head,Female,white,bus,5,2,8,6,6
+847,53,Yes,Male,41,IT,Consult,empjs,Employer_JobSite,no,Male,white,bus,4,3,8,8,6
+848,55,No,Female,28,IT,HR,empjs,Employer_JobSite,my head,Male,white,car,9,5,1,6,8
+849,89,Yes,Male,32,Retail,Commercial,youjs,Person_JobSite,no,Male,grey,car,4,3,9,8,4
+850,5,No,Female,31,Manufacture,HR,youjs,Person_JobSite,no,Female,white,bus,8,6,3,6,8
+851,10,Yes,Female,41,Retail,HR,empjs,Employer_JobSite,no,Female,white,bus,3,7,6,5,6
+852,10,Yes,Female,41,Retail,HR,empjs,Employer_JobSite,no,Female,white,bus,2,7,8,6,4
+853,10,Yes,Female,41,Retail,HR,empjs,Employer_JobSite,no,Female,white,bus,3,7,7,5,5
+854,11,No,Female,43,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,5,5,6,6,7
+855,59,Yes,Female,32,Transport,PR,referal,Person_RecReferral,no,Female,white,car,5,3,6,5,4
+856,24,No,Male,45,Manufacture,HR,empjs,Employer_JobSite,no,Male,white,car,6,3,7,6,4
+857,24,No,Male,45,Manufacture,HR,empjs,Employer_JobSite,no,Male,white,car,7,6,6,6,6
+858,73,No,Female,43,IT,HR,empjs,Employer_JobSite,no,Male,white,bus,8,6,4,4,8
+859,2,No,Female,38,Retail,HR,empjs,Employer_JobSite,no,Male,grey,car,9,6,4,6,7
+860,2,No,Female,38,Retail,HR,empjs,Employer_JobSite,no,Male,grey,car,9,3,4,7,6
+861,2,No,Female,38,Retail,HR,empjs,Employer_JobSite,no,Male,grey,car,8,4,4,7,7
+862,9,No,Female,46,Other,HR,empjs,Employer_JobSite,no,Female,white,bus,6,5,7,6,7
+863,86,No,Female,35,Other,HR,KA,RecAgency,no,Female,white,car,3,8,7,5,3
+864,19,No,Male,38,Manufacture,HR,recNErab,Person_ByRecomendation,no,Male,white,foot,6,4,6,6,5
+865,19,No,Male,38,Manufacture,HR,recNErab,Person_ByRecomendation,no,Male,white,foot,9,3,7,5,4
+866,21,Yes,Female,26,Manufacture,HR,referal,Person_RecReferral,no,Male,white,car,3,5,7,8,5
+867,21,Yes,Female,26,Manufacture,HR,referal,Person_RecReferral,no,Male,white,car,3,6,6,7,5
+868,8,No,Female,27,Telecom,HR,youjs,Person_JobSite,no,Female,white,bus,7,5,4,5,8
+869,8,No,Female,27,Telecom,HR,youjs,Person_JobSite,no,Female,white,bus,5,7,8,5,6
+870,22,No,Female,43,Building,HR,friends,Employer_Friends,no,Male,white,bus,6,6,4,6,7
+871,21,No,Male,26,Telecom,HR,youjs,Person_JobSite,yes,Female,white,bus,3,7,5,5,8
+872,34,No,Female,25,Banks,HR,youjs,Person_JobSite,yes,Female,white,bus,7,6,3,3,4
+873,100,No,Female,26,Transport,HR,youjs,Person_JobSite,yes,Female,white,bus,5,3,7,7,5
+874,100,No,Female,26,Transport,HR,youjs,Person_JobSite,yes,Female,white,bus,5,4,9,5,3
+875,61,No,Female,33,PowerGeneration,HR,empjs,Employer_JobSite,my head,Female,white,car,8,6,6,8,6
+876,61,No,Female,33,PowerGeneration,HR,empjs,Employer_JobSite,my head,Female,white,car,4,3,6,9,8
+877,52,No,Female,38,Manufacture,HR,referal,Person_RecReferral,no,Male,white,car,4,7,5,5,6
+878,6,No,Female,32,IT,HR,youjs,Person_JobSite,yes,Male,white,bus,6,3,8,3,4
+879,7,No,Female,45,Other,HR,empjs,Employer_JobSite,no,Female,white,car,5,5,9,5,6
+880,24,No,Male,32,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,8,3,6,9,5
+881,10,No,Female,35,RealEstate,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,8,3,6,4,6
+882,73,Yes,Female,24,Retail,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,5,8,4,5,6
+883,73,Yes,Female,24,Retail,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,8,6,4,5,5
+884,35,Yes,Male,31,Retail,BusinessDevelopment,KA,RecAgency,my head,Male,white,car,9,5,4,7,5
+885,35,Yes,Male,31,Retail,BusinessDevelopment,KA,RecAgency,my head,Male,white,car,8,5,3,7,5
+886,43,No,Female,24,Banks,HR,youjs,Person_JobSite,my head,Female,white,bus,6,6,4,5,6
+887,71,No,Male,26,Pharma,HR,referal,Person_RecReferral,my head,Female,white,bus,5,4,6,9,5
+888,5,No,Female,34,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,6,6,6,7,6
+889,43,No,Female,42,Mining,HR,friends,Employer_Friends,no,Male,white,bus,5,6,7,6,6
+890,12,No,Female,27,PowerGeneration,Finanсe,youjs,Person_JobSite,my head,Male,white,bus,6,3,6,7,7
+891,4,No,Female,35,Manufacture,HR,friends,Employer_Friends,no,Male,white,car,7,4,6,6,7
+892,55,No,Female,37,Consult,HR,friends,Employer_Friends,no,Male,white,bus,6,6,3,5,8
+893,55,No,Female,37,Consult,HR,friends,Employer_Friends,no,Male,white,bus,5,8,5,3,7
+894,1,No,Female,30,IT,HR,empjs,Employer_JobSite,no,Male,grey,bus,10,3,3,4,8
+895,14,Yes,Female,27,Retail,HR,youjs,Person_JobSite,no,Male,white,car,9,5,7,4,4
+896,50,No,Male,26,Mining,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,car,7,3,5,8,9
+897,7,No,Female,27,IT,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,7,6,4,5,8
+898,3,Yes,Female,23,Building,HR,friends,Employer_Friends,no,Female,white,bus,7,6,4,6,8
+899,9,No,Female,54,Other,HR,friends,Employer_Friends,no,Male,white,car,5,8,6,4,4
+900,114,No,Female,21,Retail,HR,empjs,Employer_JobSite,my head,Female,white,bus,2,5,9,8,5
+901,114,No,Female,21,Retail,HR,empjs,Employer_JobSite,my head,Female,white,bus,4,3,9,7,4
+902,67,No,Female,32,Telecom,HR,KA,RecAgency,no,Male,white,car,8,5,3,9,8
+903,67,No,Female,32,Telecom,HR,KA,RecAgency,no,Male,white,car,9,4,2,9,8
+904,93,No,Female,25,Manufacture,HR,youjs,Person_JobSite,my head,Female,white,foot,5,8,10,3,1
+905,93,No,Female,25,Manufacture,HR,youjs,Person_JobSite,my head,Female,white,foot,5,6,7,6,3
+906,58,No,Female,28,Retail,HR,youjs,Person_JobSite,no,Female,white,car,5,6,6,3,4
+907,4,No,Female,33,Retail,HR,youjs,Person_JobSite,no,Male,white,bus,1,7,8,6,5
+908,106,No,Female,23,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,5,6,6,5,10
+909,20,No,Female,31,Retail,HR,empjs,Employer_JobSite,my head,Female,white,bus,5,8,6,5,6
+910,20,No,Female,31,Retail,HR,empjs,Employer_JobSite,my head,Female,white,bus,6,6,6,4,6
+911,15,Yes,Female,23,Retail,HR,youjs,Person_JobSite,no,Female,white,car,8,5,3,6,8
+912,22,No,Female,46,IT,HR,friends,Employer_Friends,yes,Female,white,bus,3,7,6,6,6
+913,22,No,Female,46,IT,HR,friends,Employer_Friends,yes,Female,white,bus,7,6,6,5,4
+914,27,Yes,Female,34,Banks,HR,youjs,Person_JobSite,no,Female,white,bus,1,7,8,4,5
+915,6,No,Female,26,Retail,Commercial,empjs,Employer_JobSite,yes,Female,white,bus,4,5,7,6,4
+916,10,No,Female,30,RealEstate,HR,empjs,Employer_JobSite,no,Male,grey,car,8,5,3,6,7
+917,10,No,Female,30,RealEstate,HR,empjs,Employer_JobSite,no,Male,grey,car,10,4,2,6,8
+918,52,No,Female,29,Retail,HR,empjs,Employer_JobSite,my head,Female,white,bus,6,7,9,3,3
+919,106,No,Female,32,IT,HR,referal,Person_RecReferral,no,Female,white,bus,5,8,4,5,6
+920,3,No,Male,37,IT,IT,youjs,Person_JobSite,no,Male,white,foot,5,6,5,6,4
+921,8,No,Female,39,Other,HR,youjs,Person_JobSite,no,Male,white,bus,7,5,6,6,5
+922,16,No,Female,50,Building,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,6,6,6,3,7
+923,43,No,Female,51,Consult,HR,empjs,Employer_JobSite,no,Male,white,bus,4,8,6,6,5
+924,21,No,Female,33,IT,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,4,6,6,5,7
+925,1,No,Female,25,Retail,PR,friends,Employer_Friends,my head,Female,white,bus,7,9,2,5,6
+926,133,No,Female,32,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,4,6,9,3,4
+927,133,No,Female,32,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,3,7,6,3,3
+928,94,No,Male,23,Manufacture,IT,youjs,Person_JobSite,no,Male,white,bus,5,5,6,6,5
+929,22,No,Female,38,Manufacture,HR,youjs,Person_JobSite,no,Female,white,foot,7,2,10,6,6
+930,22,No,Female,38,Manufacture,HR,youjs,Person_JobSite,no,Female,white,foot,6,3,9,6,6
+931,22,No,Female,38,Manufacture,HR,youjs,Person_JobSite,no,Female,white,foot,5,3,10,3,4
+932,22,No,Female,38,Manufacture,HR,youjs,Person_JobSite,no,Female,white,foot,5,6,10,3,5
+933,12,No,Female,27,Retail,HR,youjs,Person_JobSite,my head,Male,grey,bus,7,5,6,5,8
+934,3,Yes,Female,39,Building,HR,KA,RecAgency,no,Male,grey,bus,9,5,3,4,7
+935,59,No,Female,29,Other,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,6,8,4,4,8
+936,24,No,Female,31,Consult,HR,KA,RecAgency,no,Male,grey,car,7,7,2,6,10
+937,17,No,Female,32,Banks,HR,rabrecNErab,Employer_ByRecomendation,no,Male,grey,bus,6,3,3,10,8
+938,5,No,Male,24,Consult,HR,youjs,Person_JobSite,my head,Male,white,bus,6,5,6,7,8
+939,37,No,Female,24,PowerGeneration,HR,rabrecNErab,Employer_ByRecomendation,yes,Female,white,bus,5,7,7,6,4
+940,37,No,Female,24,PowerGeneration,HR,rabrecNErab,Employer_ByRecomendation,yes,Female,white,bus,6,5,5,5,4
+941,73,No,Male,26,IT,IT,youjs,Person_JobSite,my head,Female,white,bus,5,4,6,5,4
+942,52,No,Female,30,Retail,Sales,youjs,Person_JobSite,my head,Female,white,bus,6,5,6,6,8
+943,14,Yes,Female,33,Manufacture,HR,recNErab,Person_ByRecomendation,no,Male,white,car,6,5,3,6,7
+944,6,Yes,Female,34,Retail,HR,youjs,Person_JobSite,no,Female,white,bus,4,8,9,4,4
+945,60,Yes,Female,22,Building,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,car,6,8,6,3,4
+946,3,No,Female,28,Manufacture,HR,youjs,Person_JobSite,no,Male,white,bus,4,6,6,6,4
+947,8,No,Female,41,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,1,5,9,6,2
+948,8,No,Female,41,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,3,8,8,3,2
+949,2,Yes,Male,27,Retail,Sales,empjs,Employer_JobSite,no,Male,white,bus,3,4,10,7,5
+950,1,No,Female,29,IT,HR,youjs,Person_JobSite,my head,Male,white,bus,6,6,5,6,6
+951,73,No,Female,35,Other,HR,youjs,Person_JobSite,no,Male,white,car,5,5,8,6,4
+952,61,Yes,Female,25,IT,HR,youjs,Person_JobSite,no,Male,white,car,5,5,6,6,8
+953,45,No,Male,33,Retail,HR,youjs,Person_JobSite,my head,Female,white,bus,2,8,6,5,8
+954,91,Yes,Female,22,IT,HR,friends,Employer_Friends,my head,Female,white,bus,3,6,10,6,4
+955,6,Yes,Male,24,Manufacture,Marketing,empjs,Employer_JobSite,my head,Male,white,car,8,6,2,6,7
+956,9,No,Female,23,Banks,HR,empjs,Employer_JobSite,my head,Female,white,bus,4,6,6,7,5
+957,7,No,Male,27,IT,HR,empjs,Employer_JobSite,no,Female,grey,bus,8,5,3,6,7
+958,24,No,Male,27,Transport,HR,friends,Employer_Friends,no,Female,white,bus,3,8,9,3,3
+959,45,No,Female,30,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,7,6,4,6,7
+960,16,Yes,Female,26, HoReCa,HR,friends,Employer_Friends,no,Male,white,bus,6,3,5,8,6
+961,166,Yes,Male,30,Banks,Finanсe,rabrecNErab,Employer_ByRecomendation,my head,Male,white,car,4,5,10,4,2
+962,52,No,Male,32,Other,HR,KA,RecAgency,no,Female,white,bus,5,9,5,3,7
+963,60,No,Female,38,Banks,HR,recNErab,Person_ByRecomendation,yes,Male,white,car,4,7,4,6,4
+964,30,No,Female,34,Manufacture,HR,rabrecNErab,Employer_ByRecomendation,yes,Male,white,bus,5,6,7,5,6
+965,12,No,Female,26,Retail,HR,empjs,Employer_JobSite,no,Male,white,car,6,3,8,6,8
+966,89,Yes,Female,22,PowerGeneration,HR,recNErab,Person_ByRecomendation,no,Male,white,bus,7,5,5,6,8
+967,74,Yes,Female,21,Manufacture,Finanсe,rabrecNErab,Employer_ByRecomendation,my head,Female,white,car,5,4,6,6,8
+968,45,No,Female,28,IT,HR,recNErab,Person_ByRecomendation,no,Female,white,bus,6,7,2,6,8
+969,6,No,Male,32,Manufacture,HR,KA,RecAgency,no,Male,white,bus,2,4,6,9,6
+970,21,Yes,Female,24,Retail,Commercial,youjs,Person_JobSite,my head,Male,white,bus,5,8,7,3,7
+971,21,No,Male,49,Retail,Finanсe,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,7,5,5,7,6
+972,20,Yes,Female,23,Manufacture,Commercial,youjs,Person_JobSite,my head,Female,white,bus,6,3,6,7,3
+973,29,Yes,Female,42,Retail,HR,empjs,Employer_JobSite,no,Male,grey,bus,4,6,6,5,4
+974,19,No,Female,45,Retail,HR,friends,Employer_Friends,no,Female,white,foot,4,7,8,6,5
+975,113,No,Male,23,Retail,HR,empjs,Employer_JobSite,no,Female,white,car,5,2,7,6,8
+976,49,No,Female,40,Manufacture,HR,youjs,Person_JobSite,yes,Male,white,bus,6,6,6,6,5
+977,104,No,Female,25,Retail,HR,youjs,Person_JobSite,no,Male,white,bus,8,3,6,6,8
+978,53,No,Female,29,Retail,HR,empjs,Employer_JobSite,my head,Female,white,bus,6,7,9,3,3
+979,34,No,Male,42,Manufacture,Engineer,youjs,Person_JobSite,no,Male,white,car,1,4,10,7,5
+980,65,No,Male,32,Other,HR,recNErab,Person_ByRecomendation,no,Female,white,car,5,6,5,9,8
+981,50,No,Female,37,Telecom,HR,empjs,Employer_JobSite,no,Female,white,bus,4,8,5,4,8
+982,31,No,Female,22,Consult,HR,youjs,Person_JobSite,my head,Female,white,foot,6,4,8,4,1
+983,31,No,Female,22,Consult,HR,youjs,Person_JobSite,my head,Female,white,foot,5,4,10,6,1
+984,143,No,Male,27,Retail,Sales,referal,Person_RecReferral,no,Male,white,car,4,6,4,8,5
+985,4,No,Female,28,Other,HR,youjs,Person_JobSite,no,Male,white,bus,4,6,6,6,4
+986,49,No,Male,31,Retail,Consult,youjs,Person_JobSite,no,Female,white,bus,5,5,3,9,10
+987,2,No,Male,38,Manufacture,HR,KA,RecAgency,no,Female,white,car,5,4,8,7,8
+988,2,No,Male,38,Manufacture,HR,KA,RecAgency,no,Female,white,car,3,6,7,8,6
+989,76,No,Female,23,Telecom,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,2,6,9,4,2
+990,67,No,Female,36,Retail,HR,KA,RecAgency,no,Female,white,bus,5,7,3,6,9
+991,9,No,Female,22,IT,HR,youjs,Person_JobSite,my head,Male,white,bus,8,8,3,4,7
+992,9,No,Female,22,IT,HR,youjs,Person_JobSite,my head,Male,white,bus,8,8,3,5,7
+993,33,No,Female,40,State,HR,friends,Employer_Friends,no,Female,white,bus,3,7,8,4,4
+994,32,No,Female,22,IT,IT,empjs,Employer_JobSite,my head,Male,white,foot,7,3,5,7,7
+995,53,No,Male,37,Mining,Law,friends,Employer_Friends,no,Male,white,car,3,5,4,7,8
+996,46,Yes,Female,25,Mining,HR,KA,RecAgency,yes,Female,white,foot,7,6,6,4,5
+997,10,No,Male,37,Retail,Sales,friends,Employer_Friends,my head,Male,white,bus,6,4,5,8,7
+998,15,No,Male,30,Telecom,Sales,empjs,Employer_JobSite,my head,Female,grey,car,5,3,3,8,6
+999,9,No,Female,24,Banks,HR,youjs,Person_JobSite,yes,Female,white,bus,5,6,6,6,7
+1000,13,Yes,Female,35,Consult,Consult,friends,Employer_Friends,no,Female,white,bus,5,6,3,5,7
+1001,14,No,Male,30,Retail,Commercial,recNErab,Person_ByRecomendation,no,Male,grey,car,4,4,9,5,5
+1002,14,No,Male,30,Retail,Commercial,recNErab,Person_ByRecomendation,no,Male,grey,car,5,3,10,6,4
+1003,14,No,Male,30,Other,Commercial,recNErab,Person_ByRecomendation,no,Male,grey,car,4,4,9,5,5
+1004,14,No,Male,30,Other,Commercial,recNErab,Person_ByRecomendation,no,Male,grey,car,5,3,10,6,4
+1005,2,No,Male,36,Telecom,HR,friends,Employer_Friends,my head,Female,white,car,5,5,6,5,7
+1006,113,No,Female,30,Banks,HR,rabrecNErab,Employer_ByRecomendation,yes,Female,white,car,5,7,4,6,8
+1007,49,No,Female,25,IT,HR,youjs,Person_JobSite,yes,Female,white,bus,6,3,7,3,4
+1008,49,No,Female,25,IT,HR,youjs,Person_JobSite,yes,Female,white,bus,6,6,7,7,4
+1009,29,Yes,Female,25,IT,HR,empjs,Employer_JobSite,yes,Female,white,bus,6,8,6,4,6
+1010,13,Yes,Female,26,Agriculture,HR,friends,Employer_Friends,no,Female,white,car,3,3,6,7,6
+1011,7,Yes,Female,21,Consult,HR,youjs,Person_JobSite,my head,Male,white,bus,5,7,7,3,4
+1012,55,No,Male,22,Banks,IT,friends,Employer_Friends,my head,Male,white,bus,5,6,6,8,6
+1013,75,Yes,Female,25,Retail,HR,youjs,Person_JobSite,no,Male,white,car,5,3,8,4,3
+1014,85,No,Female,31,IT,HR,youjs,Person_JobSite,no,Female,white,car,5,3,7,7,4
+1015,36,No,Male,33,Consult,Consult,youjs,Person_JobSite,yes,Male,white,bus,5,5,3,8,9
+1016,50,No,Female,38,Other,HR,friends,Employer_Friends,no,Male,white,bus,8,8,3,6,8
+1017,58,No,Male,24,State,IT,empjs,Employer_JobSite,my head,Male,white,bus,6,3,3,7,5
+1018,5,No,Male,30,Retail,HR,youjs,Person_JobSite,no,Male,white,bus,8,3,4,9,7
+1019,31,No,Female,32,Manufacture,HR,youjs,Person_JobSite,no,Male,white,bus,5,3,7,6,5
+1020,56,No,Female,28,Mining,HR,empjs,Employer_JobSite,my head,Female,white,car,5,5,5,8,5
+1021,58,No,Male,24,Other,Marketing,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,6,6,3,8,7
+1022,39,No,Male,36,Manufacture,manage,friends,Employer_Friends,no,Male,white,car,5,5,4,7,10
+1023,9,No,Female,26,IT,IT,empjs,Employer_JobSite,no,Male,white,foot,6,6,6,6,5
+1024,43,No,Female,26,Banks,HR,youjs,Person_JobSite,no,Female,white,car,6,6,6,6,8
+1025,43,No,Female,26,Banks,HR,youjs,Person_JobSite,no,Female,white,car,6,8,4,5,9
+1026,115,Yes,Female,26,Retail,HR,KA,RecAgency,no,Female,white,bus,7,6,5,5,8
+1027,19,No,Male,30,Banks,Marketing,youjs,Person_JobSite,no,Male,white,bus,7,3,4,9,9
+1028,11,No,Male,37,Retail,Sales,friends,Employer_Friends,my head,Male,white,bus,6,4,5,8,7
+1029,51,Yes,Female,31,PowerGeneration,HR,youjs,Person_JobSite,no,Female,white,bus,6,3,5,6,7
+1030,40,No,Male,26,Transport,Other,referal,Person_RecReferral,my head,Male,white,bus,6,3,6,6,8
+1031,5,Yes,Male,44,Manufacture,BusinessDevelopment,youjs,Person_JobSite,no,Male,white,car,3,6,10,4,4
+1032,71,Yes,Female,23,Consult,HR,empjs,Employer_JobSite,no,Female,white,bus,4,4,8,8,5
+1033,15,No,Male,33,PowerGeneration,manage,friends,Employer_Friends,no,Male,white,bus,5,6,10,6,4
+1034,21,No,Female,31,State,Other,advert,Person_Advert,no,Female,white,foot,9,6,3,3,5
+1035,12,No,Male,36,Manufacture,HR,friends,Employer_Friends,no,Male,white,bus,7,5,4,4,4
+1036,3,Yes,Female,39,Manufacture,HR,youjs,Person_JobSite,no,Male,white,bus,2,10,7,3,2
+1037,12,No,Female,29,Retail,HR,KA,RecAgency,my head,Female,white,bus,5,4,9,5,4
+1038,109,Yes,Female,32,Banks,HR,recNErab,Person_ByRecomendation,no,Male,white,bus,8,8,4,2,5
+1039,22,No,Female,41,Retail,HR,youjs,Person_JobSite,no,Male,grey,car,8,8,4,2,5
+1040,37,No,Male,25,Other,Other,referal,Person_RecReferral,yes,Male,white,car,5,6,9,4,4
+1041,24,Yes,Male,34,Banks,BusinessDevelopment,referal,Person_RecReferral,no,Male,white,bus,9,5,4,7,5
+1042,24,Yes,Male,34,Banks,BusinessDevelopment,referal,Person_RecReferral,no,Male,white,bus,8,5,3,7,5
+1043,51,No,Female,43,Pharma,HR,youjs,Person_JobSite,no,Female,white,car,5,6,3,8,8
+1044,16,No,Male,54,Retail,Sales,empjs,Employer_JobSite,my head,Male,white,bus,8,3,5,9,8
+1045,1,No,Male,30,IT,Sales,recNErab,Person_ByRecomendation,no,Female,white,foot,8,3,2,7,8
+1046,52,No,Female,23,Other,HR,youjs,Person_JobSite,my head,Female,white,bus,7,8,5,3,7
+1047,62,Yes,Male,22,IT,IT,youjs,Person_JobSite,no,Male,white,bus,4,8,5,6,6
+1048,45,No,Female,35,Other,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,bus,6,6,5,6,6
+1049,17,No,Female,37,Building,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,6,3,7,7,3
+1050,26,No,Male,23,Consult,Marketing,advert,Person_Advert,my head,Male,white,foot,6,6,7,5,5
+1051,19,No,Female,26,IT,HR,youjs,Person_JobSite,yes,Male,grey,bus,4,3,9,7,6
+1052,30,No,Male,47,IT,Consult,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,1,6,6,10,5
+1053,30,No,Male,47,IT,Consult,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,2,6,7,9,6
+1054,60,Yes,Female,27,Retail,HR,youjs,Person_JobSite,my head,Female,white,car,6,7,4,6,6
+1055,52,No,Female,34,IT,BusinessDevelopment,friends,Employer_Friends,my head,Male,white,car,5,4,5,9,7
+1056,59,No,Male,25,Retail,Other,youjs,Person_JobSite,no,Female,white,bus,5,5,6,8,7
+1057,85,No,Male,29,Retail,Finanсe,youjs,Person_JobSite,yes,Male,white,bus,4,3,10,7,2
+1058,119,Yes,Female,31,Telecom,HR,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,9,8,3,3,8
+1059,32,Yes,Female,31,Transport,HR,empjs,Employer_JobSite,no,Male,white,bus,7,5,6,3,4
+1060,39,Yes,Female,32,Manufacture,HR,empjs,Employer_JobSite,no,Male,white,car,5,5,7,4,8
+1061,57,Yes,Female,36,Other,HR,youjs,Person_JobSite,no,Male,white,bus,5,4,6,7,2
+1062,57,Yes,Female,36,Other,HR,youjs,Person_JobSite,no,Male,white,bus,5,3,6,5,3
+1063,10,No,Female,34,Retail,HR,youjs,Person_JobSite,my head,Female,grey,car,5,5,4,7,9
+1064,8,No,Female,39,Manufacture,HR,empjs,Employer_JobSite,no,Male,white,bus,8,4,3,8,7
+1065,9,Yes,Female,38,Building,HR,empjs,Employer_JobSite,yes,Female,grey,bus,4,4,6,5,9
+1066,8,Yes,Male,29,Retail,Sales,friends,Employer_Friends,my head,Male,white,bus,9,5,3,9,8
+1067,9,No,Female,32,Retail,HR,rabrecNErab,Employer_ByRecomendation,no,Male,grey,car,6,5,6,4,8
+1068,3,No,Female,32,IT,IT,youjs,Person_JobSite,my head,Male,white,car,9,6,4,5,8
+1069,3,No,Female,32,IT,IT,youjs,Person_JobSite,my head,Male,white,car,7,6,6,5,5
+1070,33,No,Female,23,Other,Other,youjs,Person_JobSite,no,Female,white,bus,5,6,7,3,2
+1071,6,Yes,Female,25,Retail,manage,rabrecNErab,Employer_ByRecomendation,no,Male,white,bus,5,6,6,6,8
+1072,5,Yes,Male,34,IT,Sales,friends,Employer_Friends,no,Male,white,car,3,6,8,5,3
+1073,19,No,Female,43,Consult,Consult,empjs,Employer_JobSite,yes,Male,white,foot,6,6,3,8,9
+1074,8,No,Male,30,IT,IT,empjs,Employer_JobSite,my head,Male,white,car,4,6,3,9,4
+1075,28,No,Female,31,Manufacture,HR,referal,Person_RecReferral,my head,Female,white,car,9,6,3,5,5
+1076,3,No,Female,25,Banks,HR,youjs,Person_JobSite,yes,Male,white,car,7,3,5,8,5
+1077,12,No,Female,22,Consult,manage,youjs,Person_JobSite,my head,Male,white,bus,7,5,6,7,8
+1078,28,No,Male,41,Agriculture,Other,youjs,Person_JobSite,no,Female,white,car,4,7,3,7,7
+1079,36,No,Female,32,Manufacture,HR,KA,RecAgency,no,Male,white,bus,7,9,3,3,6
+1080,79,Yes,Male,21,Retail,manage,friends,Employer_Friends,no,Female,grey,foot,5,7,5,7,6
+1081,23,No,Female,29,Other,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,6,9,4,3,7
+1082,23,No,Female,29,Other,HR,rabrecNErab,Employer_ByRecomendation,no,Female,white,car,7,8,3,3,7
+1083,132,No,Male,25,Retail,IT,empjs,Employer_JobSite,my head,Male,white,bus,5,7,3,5,6
+1084,46,Yes,Female,27,Other,HR,youjs,Person_JobSite,my head,Female,white,bus,4,9,4,5,4
+1085,32,Yes,Female,32,Banks,HR,youjs,Person_JobSite,no,Male,white,bus,4,4,6,8,7
+1086,46,Yes,Male,39,Mining,Other,friends,Employer_Friends,no,Male,white,foot,4,7,4,7,8
+1087,43,No,Male,28,Manufacture,HR,youjs,Person_JobSite,my head,Female,white,car,6,3,5,6,7
+1088,97,No,Female,28,Banks,Sales,KA,RecAgency,no,Male,white,car,8,5,3,6,8
+1089,25,No,Female,32,Retail,HR,recNErab,Person_ByRecomendation,yes,Male,white,bus,9,3,3,6,2
+1090,30,No,Male,32,IT,IT,empjs,Employer_JobSite,my head,Male,white,bus,4,8,5,5,4
+1091,53,Yes,Female,45,Manufacture,HR,KA,RecAgency,no,Male,grey,bus,5,4,8,5,4
+1092,53,Yes,Female,45,Manufacture,HR,KA,RecAgency,no,Male,grey,bus,5,6,6,4,8
+1093,53,Yes,Female,45,Manufacture,HR,KA,RecAgency,no,Male,grey,bus,4,8,6,3,8
+1094,20,No,Female,31,Consult,HR,youjs,Person_JobSite,my head,Male,white,bus,2,7,6,5,2
+1095,43,Yes,Male,23,Banks,HR,rabrecNErab,Employer_ByRecomendation,my head,Female,white,bus,5,8,6,4,5
+1096,89,Yes,Female,22,PowerGeneration,HR,recNErab,Person_ByRecomendation,no,Male,white,bus,7,5,5,6,8
+1097,91,No,Male,32,IT,IT,referal,Person_RecReferral,yes,Male,white,car,7,4,4,6,6
+1098,10,No,Female,20,IT,IT,empjs,Employer_JobSite,my head,Male,white,bus,9,5,3,5,9
+1099,16,No,Female,34,Retail,HR,youjs,Person_JobSite,no,Female,white,car,9,6,2,5,7
+1100,52,Yes,Female,19,Agriculture,Other,referal,Person_RecReferral,no,Male,white,car,9,6,3,4,6
+1101,35,No,Male,38,Retail,Sales,KA,RecAgency,no,Male,white,bus,7,3,6,6,5
+1102,96,No,Female,33,Retail,BusinessDevelopment,friends,Employer_Friends,my head,Male,white,foot,5,3,6,6,7
+1103,1,Yes,Female,43,Retail,HR,empjs,Employer_JobSite,no,Female,white,bus,7,6,4,4,5
+1104,17,No,Female,38,Manufacture,HR,friends,Employer_Friends,my head,Female,white,bus,5,5,6,4,4
+1105,17,Yes,Female,27,Retail,HR,youjs,Person_JobSite,yes,Female,grey,car,8,6,6,6,6
+1106,80,No,Male,34, HoReCa,IT,referal,Person_RecReferral,no,Male,white,bus,4,6,6,4,4
+1107,87,Yes,Male,24,Mining,Engineer,referal,Person_RecReferral,no,Male,white,bus,4,6,8,4,3
+1108,59,Yes,Male,36,Retail,Other,empjs,Employer_JobSite,no,Male,white,bus,4,4,9,6,5
+1109,46,Yes,Male,29,Other,PR,friends,Employer_Friends,no,Male,white,bus,7,6,3,6,8
+1110,153,No,Male,43,IT,Sales,rabrecNErab,Employer_ByRecomendation,no,Male,white,car,6,3,5,8,5
+1111,7,No,Female,39,Transport,HR,friends,Employer_Friends,no,Female,white,bus,3,8,7,4,8
+1112,7,No,Female,39,Transport,HR,friends,Employer_Friends,no,Female,white,bus,1,8,8,5,6
+1113,7,No,Male,31,IT,IT,youjs,Person_JobSite,no,Male,white,bus,8,3,2,9,7
+1114,80,No,Male,34,IT,IT,referal,Person_RecReferral,no,Male,grey,bus,4,6,6,4,4
+1115,95,No,Female,31,Retail,HR,referal,Person_RecReferral,yes,Male,white,foot,6,6,3,4,9
+1116,95,No,Female,31,Retail,HR,referal,Person_RecReferral,yes,Male,white,foot,5,6,5,6,8
+1117,59,No,Female,22,Retail,HR,youjs,Person_JobSite,yes,Female,white,bus,9,5,3,7,8
+1118,11,Yes,Male,41,Consult,HR,youjs,Person_JobSite,no,Male,white,bus,4,4,6,9,6
+1119,7,No,Male,25,Manufacture,HR,friends,Employer_Friends,no,Female,white,bus,5,5,6,7,8
+1120,27,No,Female,19,IT,HR,youjs,Person_JobSite,yes,Female,white,bus,7,3,6,7,2
+1121,12,No,Male,41,IT,IT,youjs,Person_JobSite,no,Male,white,foot,5,4,5,8,8
+1122,53,No,Female,27,IT,HR,youjs,Person_JobSite,no,Male,white,bus,3,6,6,6,4
+1123,13,No,Male,48,Manufacture,Marketing,friends,Employer_Friends,no,Male,white,bus,1,7,6,9,6
+1124,7,No,Female,27,Banks,HR,youjs,Person_JobSite,no,Female,white,bus,9,6,3,4,8
+1125,11,No,Female,41,Banks,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,9,3,3,5,8
+1126,11,No,Female,41,Banks,HR,rabrecNErab,Employer_ByRecomendation,my head,Male,white,bus,9,3,3,5,8
+1127,119,No,Female,34,Telecom,Accounting,KA,RecAgency,no,Female,white,bus,5,6,7,6,4
+1128,49,No,Female,51,Consult,HR,empjs,Employer_JobSite,no,Male,grey,bus,4,8,6,6,5
+1129,25,No,Female,29,Retail,HR,youjs,Person_JobSite,no,Female,white,car,9,1,4,6,7
