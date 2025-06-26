@@ -1,0 +1,29 @@
+Total Employees = 
+    COUNTROWS(
+        'Hutorcova Data')
+---
+Turnover Rate = 
+    DIVIDE(
+        COUNTX(
+            FILTER('Hutorcova Data', [Turnover] = "Yes"), [Employee_Number]),
+            COUNTX('Hutorcova Data', [Employee_Number]))
+---
+Average Tenure = 
+    AVERAGE(
+        'Hutorcova Data'[Stag])
+---
+Coached Turnover = 
+    DIVIDE(
+        COUNTX(
+            FILTER(
+                'Hutorcova Data', [Coach] = "yes" && [Turnover] = "Yes"), [Employee_Number]),
+                COUNTX(
+                    FILTER(
+                        'Hutorcova Data', [Coach] = "yes"), [Total Employees]))
+---
+NonCoached Turnover = 
+    DIVIDE(
+            COUNTX(
+                FILTER('Hutorcova Data', [Coach] = "no" && [Turnover] = "Yes"), [Employee_Number]),
+                    COUNTX(
+                        FILTER('Hutorcova Data', [Coach] = "no"), [Employee_Number]))

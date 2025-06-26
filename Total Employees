@@ -1,3 +1,0 @@
-Total Employees = 
-    COUNTROWS(
-        'Hutorcova Data')
